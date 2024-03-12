@@ -25,9 +25,16 @@
 - La sede presenta bajos consumos de energía, se solicita  los ultimos consumos de facturacíon para validar.
 
 <!--## BC 367 - Granada Meta -->
-<!--## BC 384 - Anapoima  -->
+## BC 384 - Anapoima 
+
+- Para la sede se solicita verificar las horas de apagado.
+
 ## BC 388 - CC Hayuelos
 
 - La sede presenta consumos nocturnos del 27 al 29 febrero, se debe validar si no se presentaron trabajos operativos.
-<!--## BC 689 - Metropolis  -->
+
+## BC 689 - Metropolis
+
+- La sede presenta altos consumos nocturnos durante toda la semana.
+
 <!--## BC 802 - Puerto Lopez -->
