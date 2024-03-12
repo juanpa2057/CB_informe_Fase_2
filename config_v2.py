@@ -6,7 +6,7 @@ NIGHT_HOURS = [0, 1, 2, 3, 4, 5, 19, 20, 21, 22, 23]
 # dates must be mondays.
 BASELINE = ['2023-12-01', '2024-02-26']
 STUDY = ['2024-02-26', '2024-03-04']
-PAST_WEEK = ['2024-02-19', '2024-02-26']
+PAST_WEEK = ['2024-02-19', '2024-02-25']
 
 DATE_INTERVALS_TO_DISCARD = {
 }
