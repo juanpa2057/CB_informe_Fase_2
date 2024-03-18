@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 26 febrero al 3 marzo del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 11 al 18 de marzo del 2024:
 
 <!-- ## BC 81 - Avenida Kennedy
 
@@ -22,11 +22,11 @@
 
 ## BC 332 - Zipaquira
 
-- La sede presenta bajos consumos de energía, se solicita  los ultimos consumos de facturacíon para validar.
+- Se validan los consumos con la facturación y se determina que son estables.
 
 ## BC 367 - Granada Meta 
 
-- La sede presenta un pico a las 00:00:00 horas todos los días.
+- La sede presenta un pico de consumo a las 00:00:00 horas todos los días.
 
 ## BC 384 - Anapoima 
 
