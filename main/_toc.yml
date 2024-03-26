@@ -7,9 +7,14 @@ chapters:
 
   - file: Hallazgos
 
-  - file: notebooks/individual/Notebook BC 332 - Zipaquira   #1
-  - file: notebooks/individual/Notebook BC 367 - Granada Meta #2
-  - file: notebooks/individual/Notebook BC 384 - Anapoima #3
-  - file: notebooks/individual/Notebook BC 388 - CC Hayuelos #4
-  - file: notebooks/individual/Notebook BC 689 - Metropolis #5
-  - file: notebooks/individual/Notebook BC 802 - Puerto Lopez #6
+  - file: notebooks/individual/Notebook BC 81 - Avenida Kennedy #1
+  - file: notebooks/individual/Notebook BC 332 - Zipaquira #2
+  - file: notebooks/individual/Notebook BC 367 - Granada Meta #3
+  - file: notebooks/individual/Notebook BC 384 - Anapoima #4
+  - file: notebooks/individual/Notebook BC 388 - CC Hayuelos #5
+  - file: notebooks/individual/Notebook BC 478 - Mix Vía 40 #6
+  - file: notebooks/individual/Notebook BC 554 - Mall Plaza Buenavista #7
+  - file: notebooks/individual/Notebook BC 689 - Metropolis #8
+  - file: notebooks/individual/Notebook BC 775 - Bulevar 54 #9
+  - file: notebooks/individual/Notebook BC 777 - Parque Washington #10
+  - file: notebooks/individual/Notebook BC 802 - Puerto Lopez #11
