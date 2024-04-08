@@ -10,8 +10,6 @@
 
 ## BC 73 - Pereira
 
-- La sede presenta un problema con la carga del totalizador, se está validando internamente la solución.
-
 - El lunes 1 de abril la carga de aire acondicionado fue mayor que los otros días
 
  ## BC 81 - Avenida Kennedy
