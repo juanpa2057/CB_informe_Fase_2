@@ -4,14 +4,14 @@ NIGHT_HOURS = [0, 1, 2, 3, 4, 5, 19, 20, 21, 22, 23]
 # last baseline date must be the same
 # date as start of study. Basically all
 # dates must be mondays.
-BASELINE = ['2023-12-01', '2024-04-08']
-STUDY = ['2024-04-08', '2024-04-15']
-PAST_WEEK = ['2024-04-01', '2024-04-08']
+BASELINE = ['2023-12-01', '2024-04-15']
+STUDY = ['2024-04-15', '2024-04-22']
+PAST_WEEK = ['2024-04-08', '2024-04-15']
 
 DATE_INTERVALS_TO_DISCARD = {
 }
 
-# variables that make up totalizer measurement
+# variables that make up totalizer measurement  z   
 ENERGY_VAR_LABELS = ('aa-consumo-activa', 'ilu-consumo-activa')
 POWER_VAR_LABELS = ('aa-potencia-activa', 'ilu-potencia-activa')
 

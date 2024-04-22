@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 8 al 14 de abril del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 15 al 21 de abril del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -14,7 +14,7 @@
 
  ## BC 81 - Avenida Kennedy
 
-- La sede mantuvo encendido el aire acondicionado para el fin de semana.
+- La sede mantuvo encendido el aire acondicionado durante el fin de semana. Sin embargo se observa el intento de apagado del sistema, validar que acciones se realizaron para el apagado.
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
@@ -42,33 +42,34 @@
 
 - Se validan los consumos con la facturación y se determina que son estables. -->
 
-## BC 367 - Granada Meta 
+<!-- ## BC 367 - Granada Meta 
 
-- Los consumos de aire acondicionado fueron altos durante el fin de semana, validar si se realizaron trabajos en la sede.
+- La sede normalizó su patrón de consumo.-->
 
-## BC 384 - Anapoima 
+<!--## BC 384 - Anapoima 
 
-- Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas mientras que los otros días el aire es apagado a las 19:00.
+- Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas se sugiere realizar el apagado al igual que los otros días cuya hora es a las 19:00 horas.-->
 
-<!-- ## BC 388 - CC Hayuelos
+## BC 388 - CC Hayuelos
 
-- La sede presenta un pico de consumo el sábado 30 de marzo al medio día. -->
 
-<!-- - La sede presenta consumos nocturnos del 27 al 29 febrero, se debe validar si no se presentaron trabajos operativos.-->
-<!--## BC 478 - Mix Vía 40 
+- La sede presenta consumos nocturnos del 15 al 17 abril, se debe validar si no se presentaron trabajos operativos.
 
-- Para los días festivos, la sede presenta un patrón de consumo diferente en comparación a las hora nocturnas.-->
+## BC 478 - Mix Vía 40 
+
+- La sede presenta consumos elevados durante el fin de semana a comparación con la línea base, verificar si se presentaron trabajos operativos.
+
 ## BC 513 - El Dificil
 
-- Para la sede se debe validar la instalación de las medidas de los equipos de aire.
+<!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
-- Se mantiene encendido el aire a carga parcial las noches de los primeros días de la semana.
+- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.
 
 
 <!--## BC 516 - Santa Marta-->
 
  ## BC 517 - El Rodadero 
-- Se presentó consumo nocuturno elevado para la noche del 10 de abril y una baja carga el día 11 de abril, validar si se realizó algún trabajo en la sede.
+- La sede presentó un consumo nocuturno elevado para la noche del 19 de abril, validar si se realizó algún trabajo operativo en la sede.
 
 <!-- - La sede presenta que la carga del aire es mayor a la totalizadora. -->
 
@@ -78,11 +79,11 @@
 
 - La sede presenta horas de apagado con oportunidad de mejora, las alarmas para esta sede ya quedaron configuradas para ayudar con el proceso.
 
-## BC 681 - Cerete
+<!--## BC 681 - Cerete
 
 - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
-- La sede normalizó su patrón de consumo.
+- La sede normalizó su patrón de consumo.-->
 
 <!--## BC 687 - Planeta Rica
 
@@ -90,11 +91,11 @@
 
 ## BC 689 - Metropolis 
 
-- El consumo del aire acondicionado en las noches aumentó con respecto a la línea base.
+- El consumo del aire acondicionado en las noches aumentó con respecto a la línea base, verificar si en la sede fue instalada una carga adicional.
 
-## BC 733 - La Unión Valle
+<!--## BC 733 - La Unión Valle
 
-- Durante la semana se realizaron trabajos de mantenimiento operativo en la sede.
+- Durante la semana se realizaron trabajos de mantenimiento operativo en la sede. -->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
