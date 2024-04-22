@@ -99,8 +99,9 @@
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
-<!-- ## BC 772 - Caicedonia -->
+## BC 772 - Caicedonia
 
+- La sede no operó el día lunes 15 de abril.
 
 <!--## BC 775 - Bulevar 54 -->
 
