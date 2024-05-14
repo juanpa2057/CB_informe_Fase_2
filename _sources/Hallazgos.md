@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 29 de abril al 5 de mayo del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 6 de mayo al 12 de mayo del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -16,17 +16,17 @@
 
 - La sede mantuvo encendido el aire acondicionado durante el fin de semana. 
 
-- La sede mantuvo encendido el aire acondicionado el día miercoles 1 de mayo, que representa un día festivo.
-
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
-<!-- ## BC 111 - Corozal
+<!--## BC 111 - Corozal
+
+- Se presenta-->
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 ## BC 115 - Circunvalar Pereira
 
-- La sede presentó consumos elevados durante el fin de semana.
+<!-- - La sede presentó consumos elevados durante el fin de semana.-->
 
 - El patrón de consumo de la sede es irregular, verificar la automatización debido a que la hora de apagado se exitende a comparación de lo habitual. 
 
@@ -61,7 +61,9 @@
 
 - La sede presenta un consumo nocturno elevado la noche del 24 de abril, verificar si se presentaron trabajos operativos.-->
 
-<!--## BC 513 - El Dificil
+## BC 513 - El Dificil
+
+- La sede presenta un consumo nocturno elevado la noche del 6 de mayo, validar si se realizaron labores de mantenimiento.
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
@@ -70,18 +72,20 @@
 
 <!--## BC 516 - Santa Marta-->
 
- <!-- ## BC 517 - El Rodadero 
-- La sede presentó un consumo nocuturno elevado para la noche del 23 de abril, validar si se realizó algún trabajo operativo en la sede.-->
+## BC 517 - El Rodadero 
+- La sede presentó un consumo nocuturno elevado para la noche del 7 de mayo, validar si se realizó algún trabajo operativo en la sede
 
 <!-- - La sede presenta que la carga del aire es mayor a la totalizadora. -->
 
  ## BC 554 - Mall Plaza Buena Vista
 
- - La carga de aires de la sede queda encendida la noche del 3 de mayo.
+ - La carga de aires de la sede queda encendida la noche del 11 de mayo.
 
-<!--## BC 681 - Cerete
+## BC 681 - Cerete
 
-- Se está validando la instalación de los equipos de medida del aire acondicionado.
+- Para la noche del 11 de mayo, la sede apagó el sistema de aires más tarde de lo habitual.
+
+<!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
 
@@ -89,9 +93,9 @@
 
 - -->
 
-## BC 689 - Metropolis 
+<!-- ## BC 689 - Metropolis 
 
-- La carga de aire acondicionado estuo encendida el día miércoles 1 de mayo que representa un día festivo.
+- La carga de aire acondicionado estuo encendida el día miércoles 1 de mayo que representa un día festivo. -->
 
 <!-- ## BC 733 - La Unión Valle
 
@@ -103,13 +107,14 @@
 
 - La sede no operó el día lunes 22 de abril. -->
 
-<!--## BC 775 - Bulevar 54 -->
+## BC 775 - Bulevar 54
+
+- La sede presentó un patrón de consumo atípico, manteniendo la carga de aire encendida durante toda la semana laboral.
 
  ## BC 777 - Parque Washington 
 
-- La carga de aire acondicionado estuo encendida el día miércoles 1 de mayo que representa un día festivo.
+- El consumo de la carga de aires aumentó referente a la línea base, validar si se incorporó un nuevo equipo.
 
-- La sede presenta un consumo nocturno elevado la noche del 1 de mayo, verificar las acciones tomadas.
 
 <!-- ## BC 781 - Prado Plaza
 
