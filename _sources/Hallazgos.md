@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 13 al 19 de mayo del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 20 al 26 de mayo del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -14,7 +14,7 @@
 
  ## BC 81 - Avenida Kennedy
 
-- La sede mantuvo encendido el aire acondicionado durante el fin de semana y el día festivo. 
+- La sede mantuvo encendido el aire acondicionado durante el fin de semana. 
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
@@ -29,8 +29,6 @@
 <!-- - La sede presentó consumos elevados durante el fin de semana.-->
 
 - El patrón de consumo de la sede es irregular, verificar la automatización debido a que la hora de apagado se exitende a comparación de lo habitual. 
-
-- La sede mantuvo el aire encendido durante el día festivo.
 
 <!-- -El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan -->
 
@@ -54,9 +52,9 @@
 
 - Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas se sugiere realizar el apagado al igual que los otros días cuya hora es a las 19:00 horas.-->
 
-<!-- ## BC 388 - CC Hayuelos
+## BC 388 - CC Hayuelos
 
-- La sede desconectó la medida de los equipos de aire acondicionado durante la semana.-->
+- Se presenta la desconexión de uno de los equipos de aire se está trabajando en el arreglo de esta medida.
 
 <!-- ## BC 478 - Mix Vía 40 
 
@@ -64,7 +62,7 @@
 
 ## BC 513 - El Dificil
 
-- La sede presenta consumos nocturnos elevados la noches del 15 y 16 de mayo.
+- La sede mejora su pantrón de consumo durante la semana.
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
@@ -82,10 +80,6 @@
 
 - La carga de aires de la sede queda encendida la noches noches de los viernes, validar que sucede con la automatización del apagado.
 
-- La sede presenta un consumo elevado el día domingo 19 de mayo.
-
-- La sede tuvo un comportamiento a carga parcial el día festivo 13 de mayo.
-
 <!--## BC 681 - Cerete
 
 - Para la noche del 11 de mayo, la sede apagó el sistema de aires más tarde de lo habitual.-->
@@ -94,17 +88,17 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-<!--## BC 687 - Planeta Rica
+## BC 687 - Planeta Rica
 
-- -->
+- La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa.
 
 ## BC 689 - Metropolis 
 
-- La carga de aire acondicionado estuvo encendida el día lunes 13 de mayo que representa un día festivo.
+- La carga de aire acondicionado se mantiene encendida durante los fines de semana, verificar la automatización del sistema.
 
-<!-- ## BC 733 - La Unión Valle
+## BC 733 - La Unión Valle
 
-- La carga de aire acondicionado estuvo encendida durate el fin de semana, validar si se realizaron trabajos en la sede. -->
+- La sede presenta un consumo nocturno elevado la noche del 21 de mayo, verificar si se realizaron labores operativas.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
@@ -118,9 +112,7 @@
 
  ## BC 777 - Parque Washington 
 
-- La carga de aire acondicionado estuvo encendida el día lunes 13 de mayo que representa un día festivo.
-
-- La sede presenta un consumo elevado la noche del 13 de mayo.
+- La sede presenta un patrón de consumo atípico, mantiene el sistema de aires encendido durante la noche.
 
 <!-- ## BC 781 - Prado Plaza
 
