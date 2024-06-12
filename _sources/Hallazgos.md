@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 27 de mayo al 3 de junio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 4 al 11 de junio del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -24,25 +24,25 @@
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
-## BC 115 - Circunvalar Pereira
+<!--## BC 115 - Circunvalar Pereira
 
 - La sede mejoró su patrón de consumo.
 
-- La sede encendió el equipo de aire acondicionado el dia lunes 3 de Junio, que representa un día festivo.
+- La sede encendió el equipo de aire acondicionado el dia lunes 3 de Junio, que representa un día festivo.-->
 
 <!-- -El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan -->
 
 <!-- - La sede modificó su patrón de consumo histórico a partir del 30 de noviembre de 2023, especialmente en lo que respecta a los consumos nocturnos.-->
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
-<!-- ## BC 265 Valle de Lili
+<!--## BC 265 Valle de Lili
 
-- 
+- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
 
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- Se validan los consumos con la facturación y se determina que son estables. -->
+- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.
 
 <!-- ## BC 367 - Granada Meta 
 
@@ -54,26 +54,28 @@
 
 ## BC 388 - CC Hayuelos
 
-- Se presenta la desconexión de uno de los equipos de aire se está trabajando en el arreglo de esta medida.
+- Se presenta la desconexión de uno de los equipos de aire, se está trabajando en el arreglo de esta medida.
 
 <!-- ## BC 478 - Mix Vía 40 
 
 - La sede presenta un consumo nocturno elevado la noche del 24 de abril, verificar si se presentaron trabajos operativos.-->
 
-<!-- ## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
-- La sede mejora su pantrón de consumo durante la semana.-->
+- La sede tuvo un comportamiento iregular en el patrón de consumo la noche del 4 de junio. 
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-<!--## BC 516 - Santa Marta-->
+## BC 516 - Santa Marta
 
-## BC 517 - El Rodadero 
+- La sede tuvo un patron de consumo irregular durante el fin de semana y el dia festivo, validar la automatización o si se realizaron labores operativas.
 
-- La sede presenta un patrón de consumo atípico validar la instalación o la automatización.
+<!-- ## BC 517 - El Rodadero 
+
+- La sede presenta un patrón de consumo atípico validar la instalación o la automatización.-->
 
  ## BC 554 - Mall Plaza Buena Vista
 
@@ -95,15 +97,15 @@
 
 - La carga de aire acondicionado se mantiene encendida durante los fines de semana, verificar la automatización del sistema.
 
-## BC 733 - La Unión Valle
+<!--## BC 733 - La Unión Valle
 
-- La sede puede mejorar sus consumos durante los fines de semana.
+- La sede puede mejorar sus consumos durante los fines de semana.-->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
-<!--## BC 772 - Caicedonia
+## BC 772 - Caicedonia
 
-- La sede no operó el día lunes 22 de abril. -->
+- La sede presenta consumos nocturnos elevado las noches del 5, 6 y 7 de junio, verficar si fue por labores de mantenimiento o problemas en la automatización.
 
 <!--## BC 775 - Bulevar 54
 
@@ -111,11 +113,11 @@
 
  ## BC 777 - Parque Washington 
 
-- La sede elevó su patrón de consumo con respecto a la línea base.
+- La sede encendió el equipo de aires el día 10 de junio que representa un día festivo y quedó encendido durante la noche.
 
-<!-- ## BC 781 - Prado Plaza
+## BC 781 - Prado Plaza
 
-- -->
+- La sede tuvo un patrón de consumo irregular, validar la automatización de los equipos.
 
 <!-- ## BC 802 - Puerto Lopez 
 
