@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 4 al 11 de junio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 10 al 16 de junio del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -18,9 +18,9 @@
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
-<!--## BC 111 - Corozal
+## BC 111 - Corozal
 
-- Se presenta-->
+- Se presenta desconexión en los de aire, se está trabjando para reestablecer la comunicación.
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
@@ -62,7 +62,7 @@
 
 ## BC 513 - El Dificil 
 
-- La sede tuvo un comportamiento iregular en el patrón de consumo la noche del 4 de junio. 
+- La sede presenta un consumo nocturno la noche del 11 de junio. 
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
@@ -97,15 +97,15 @@
 
 - La carga de aire acondicionado se mantiene encendida durante los fines de semana, verificar la automatización del sistema.
 
-<!--## BC 733 - La Unión Valle
+## BC 733 - La Unión Valle
 
-- La sede puede mejorar sus consumos durante los fines de semana.-->
+- La sede presentua un consumo nocturno la noche del 12 de junio.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
-## BC 772 - Caicedonia
+<!--## BC 772 - Caicedonia
 
-- La sede presenta consumos nocturnos elevado las noches del 5, 6 y 7 de junio, verficar si fue por labores de mantenimiento o problemas en la automatización.
+- La sede presenta consumos nocturnos elevado las noches del 5, 6 y 7 de junio, verficar si fue por labores de mantenimiento o problemas en la automatización.-->
 
 <!--## BC 775 - Bulevar 54
 
@@ -117,7 +117,7 @@
 
 ## BC 781 - Prado Plaza
 
-- La sede tuvo un patrón de consumo irregular, validar la automatización de los equipos.
+- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.
 
 <!-- ## BC 802 - Puerto Lopez 
 
