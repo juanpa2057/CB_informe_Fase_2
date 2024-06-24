@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 10 al 16 de junio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 17 al 23 de junio del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -14,7 +14,7 @@
 
  ## BC 81 - Avenida Kennedy
 
-- La sede mantuvo encendido el aire acondicionado durante el fin de semana y el día festivo. 
+- La sede mantuvo encendido el aire acondicionado durante el fin de semana. 
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
@@ -42,7 +42,7 @@
 
 ## BC 332 - Zipaquira
 
-- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.
+- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base, validar si se realizaron trabajos operativos en las noches.
 
 <!-- ## BC 367 - Granada Meta 
 
@@ -62,7 +62,7 @@
 
 ## BC 513 - El Dificil 
 
-- La sede presenta un consumo nocturno la noche del 11 de junio. 
+- La sede presenta un consumo nocturno la noche del 18 de junio y un comportamiento a carga parcial el 19 de junio. 
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
@@ -71,11 +71,11 @@
 
 ## BC 516 - Santa Marta
 
-- La sede tuvo un patron de consumo irregular durante el fin de semana y el dia festivo, validar la automatización o si se realizaron labores operativas.
+- La sede apagó los equipos de aire horas más tarde de lo normal comparado con la línea base, validar la automatización de los equipos.
 
-<!-- ## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
 
-- La sede presenta un patrón de consumo atípico validar la instalación o la automatización.-->
+- La sede presenta un consumo nocturno la noche del 19 de junio, validar si se realizaron labores operativas.
 
  ## BC 554 - Mall Plaza Buena Vista
 
@@ -89,9 +89,10 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-<!-- ## BC 687 - Planeta Rica
+## BC 687 - Planeta Rica
 
-- La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
+<!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
+- La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio.
 
 ## BC 689 - Metropolis 
 
@@ -99,7 +100,7 @@
 
 ## BC 733 - La Unión Valle
 
-- La sede presentua un consumo nocturno la noche del 12 de junio.
+- La sede presentua un consumo nocturno la noche del 17 de junio.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
@@ -113,11 +114,11 @@
 
  ## BC 777 - Parque Washington 
 
-- La sede encendió el equipo de aires el día 10 de junio que representa un día festivo y quedó encendido durante la noche.
+- La sede presenta consumos noctrunos elevados durante la semana laboral a comparación con los fines de semana, validar si es posible equilibrar esos consumos en el sistema y reducirlos durante la semana.
 
-## BC 781 - Prado Plaza
+<!-- ## BC 781 - Prado Plaza
 
-- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.
+- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
 
 <!-- ## BC 802 - Puerto Lopez 
 
