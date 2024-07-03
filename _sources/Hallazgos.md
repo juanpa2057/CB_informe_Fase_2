@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 17 al 23 de junio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 24 de junio al 1 de julio del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -24,11 +24,11 @@
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
-<!--## BC 115 - Circunvalar Pereira
+## BC 115 - Circunvalar Pereira
 
-- La sede mejoró su patrón de consumo.
+<!-- - La sede mejoró su patrón de consumo.-->
 
-- La sede encendió el equipo de aire acondicionado el dia lunes 3 de Junio, que representa un día festivo.-->
+- La sede encendió el equipo de aire acondicionado el dia lunes 1 de Julio, que representa un día festivo.
 
 <!-- -El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan -->
 
@@ -40,9 +40,9 @@
 - La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
 
 
-## BC 332 - Zipaquira
+<!-- ## BC 332 - Zipaquira
 
-- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base, validar si se realizaron trabajos operativos en las noches.
+- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base, validar si se realizaron trabajos operativos en las noches. -->
 
 <!-- ## BC 367 - Granada Meta 
 
@@ -62,24 +62,28 @@
 
 ## BC 513 - El Dificil 
 
-- La sede presenta un consumo nocturno la noche del 18 de junio y un comportamiento a carga parcial el 19 de junio. 
+- El patron de consumo fue irregular durante la semana, presentando consumos nocturnos elevados.
+
+- La sede presentó consumos elevados los días que representan fin de semana y festivo.
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-## BC 516 - Santa Marta
+<!-- ## BC 516 - Santa Marta
 
-- La sede apagó los equipos de aire horas más tarde de lo normal comparado con la línea base, validar la automatización de los equipos.
+- La sede apagó los equipos de aire horas más tarde de lo normal comparado con la línea base, validar la automatización de los equipos.-->
 
-## BC 517 - El Rodadero 
+<!-- ## BC 517 - El Rodadero 
 
-- La sede presenta un consumo nocturno la noche del 19 de junio, validar si se realizaron labores operativas.
+- La sede presenta un consumo nocturno la noche del 19 de junio, validar si se realizaron labores operativas.  -->
 
  ## BC 554 - Mall Plaza Buena Vista
 
 - La carga de aires de la sede queda encendida las noches de los viernes, validar que sucede con la automatización del apagado.
+
+- La sede presenta consumo el día 1 de julio que representa un día festivo.
 
 <!--## BC 681 - Cerete
 
@@ -89,18 +93,18 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-## BC 687 - Planeta Rica
+<!-- ## BC 687 - Planeta Rica
 
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
-- La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio.
+<!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
 ## BC 689 - Metropolis 
 
 - La carga de aire acondicionado se mantiene encendida durante los fines de semana, verificar la automatización del sistema.
 
-## BC 733 - La Unión Valle
+<!-- ## BC 733 - La Unión Valle
 
-- La sede presentua un consumo nocturno la noche del 17 de junio.
+- La sede presentua un consumo nocturno la noche del 17 de junio. -->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
@@ -115,6 +119,8 @@
  ## BC 777 - Parque Washington 
 
 - La sede presenta consumos noctrunos elevados durante la semana laboral a comparación con los fines de semana, validar si es posible equilibrar esos consumos en el sistema y reducirlos durante la semana.
+
+- La sede presentó un consumo elevado el día lunes 1 de julio que representa un día festivo.
 
 <!-- ## BC 781 - Prado Plaza
 
