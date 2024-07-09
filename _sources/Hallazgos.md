@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 24 de junio al 1 de julio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 1 al 7 julio del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -17,6 +17,7 @@
 - La sede mantuvo encendido el aire acondicionado durante el fin de semana. 
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
+
 
 ## BC 111 - Corozal
 
@@ -83,7 +84,9 @@
 
 - La carga de aires de la sede queda encendida las noches de los viernes, validar que sucede con la automatización del apagado.
 
-- La sede presenta consumo el día 1 de julio que representa un día festivo.
+- La sede presenta un patrón de consumo irregular los días 5 y 6 de julio
+
+- La sede presenta un conumo elevado el día 7 de julio que due domingo.
 
 <!--## BC 681 - Cerete
 
@@ -102,9 +105,9 @@
 
 - La carga de aire acondicionado se mantiene encendida durante los fines de semana, verificar la automatización del sistema.
 
-<!-- ## BC 733 - La Unión Valle
+## BC 733 - La Unión Valle
 
-- La sede presentua un consumo nocturno la noche del 17 de junio. -->
+- La sede presentua un consumo nocturno la noche del 3 de julio.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
@@ -118,9 +121,9 @@
 
  ## BC 777 - Parque Washington 
 
-- La sede presenta consumos noctrunos elevados durante la semana laboral a comparación con los fines de semana, validar si es posible equilibrar esos consumos en el sistema y reducirlos durante la semana.
+<!-- - La sede presenta consumos noctrunos elevados durante la semana laboral a comparación con los fines de semana, validar si es posible equilibrar esos consumos en el sistema y reducirlos durante la semana.-->
 
-- La sede presentó un consumo elevado el día lunes 1 de julio que representa un día festivo.
+- La sede presentó un patrón de consumo atípico causado por los equipos de aire acondicionado, se recomineda revisar la automatización.
 
 <!-- ## BC 781 - Prado Plaza
 
