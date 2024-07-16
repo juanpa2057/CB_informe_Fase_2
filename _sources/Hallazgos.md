@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 1 al 7 julio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 8 al 14 de julio del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -25,11 +25,11 @@
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
-## BC 115 - Circunvalar Pereira
+<!-- ## BC 115 - Circunvalar Pereira
 
 <!-- - La sede mejoró su patrón de consumo.-->
 
-- La sede encendió el equipo de aire acondicionado el dia lunes 1 de Julio, que representa un día festivo.
+<!-- - La sede encendió el equipo de aire acondicionado el dia lunes 1 de Julio, que representa un día festivo. --<>
 
 <!-- -El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan -->
 
@@ -65,7 +65,7 @@
 
 - El patron de consumo fue irregular durante la semana, presentando consumos nocturnos elevados.
 
-- La sede presentó consumos elevados los días que representan fin de semana y festivo.
+- La sede presentó consumos elevados los días que representan fin de semana.
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
@@ -84,9 +84,9 @@
 
 - La carga de aires de la sede queda encendida las noches de los viernes, validar que sucede con la automatización del apagado.
 
-- La sede presenta un patrón de consumo irregular los días 5 y 6 de julio
+<!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
 
-- La sede presenta un conumo elevado el día 7 de julio que due domingo.
+<!-- - La sede presenta un conumo elevado el día 7 de julio que due domingo.-->
 
 <!--## BC 681 - Cerete
 
@@ -107,7 +107,7 @@
 
 ## BC 733 - La Unión Valle
 
-- La sede presentua un consumo nocturno la noche del 3 de julio.
+- La sede presentua un consumo nocturno la noche del 10 de julio.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
@@ -123,7 +123,7 @@
 
 <!-- - La sede presenta consumos noctrunos elevados durante la semana laboral a comparación con los fines de semana, validar si es posible equilibrar esos consumos en el sistema y reducirlos durante la semana.-->
 
-- La sede presentó un patrón de consumo atípico causado por los equipos de aire acondicionado, se recomineda revisar la automatización.
+- La sede presentó un patrón de consumo atípico causado por los equipos de aire acondicionado, se recomienda revisar la automatización.
 
 <!-- ## BC 781 - Prado Plaza
 
