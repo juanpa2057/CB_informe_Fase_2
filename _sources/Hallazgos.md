@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 8 al 14 de julio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 15 al 21 de julio del 2024:
 
 <!--## BC 73 - Pereira
 
@@ -41,9 +41,9 @@
 - La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
 
 
-<!-- ## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base, validar si se realizaron trabajos operativos en las noches. -->
+- La sede presentó consumos nocturnos elevados las noches del 17 y 18 de julio, validar si se realizaron labores de mantenimineto.
 
 <!-- ## BC 367 - Granada Meta 
 
@@ -65,7 +65,7 @@
 
 - El patron de consumo fue irregular durante la semana, presentando consumos nocturnos elevados.
 
-- La sede presentó consumos elevados los días que representan fin de semana.
+<!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
@@ -105,9 +105,9 @@
 
 - La carga de aire acondicionado se mantiene encendida durante los fines de semana, verificar la automatización del sistema.
 
-## BC 733 - La Unión Valle
+<!-- ## BC 733 - La Unión Valle
 
-- La sede presentua un consumo nocturno la noche del 10 de julio.
+- La sede presentua un consumo nocturno la noche del 10 de julio.-->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 
@@ -115,9 +115,9 @@
 
 - La sede presenta consumos nocturnos elevado las noches del 5, 6 y 7 de junio, verficar si fue por labores de mantenimiento o problemas en la automatización.-->
 
-<!--## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- La sede presentó un patrón de consumo atípico, manteniendo la carga de aire encendida durante toda la semana laboral.-->
+- La sede tuvo horas de apagado de hasta tres horas más tarde de lo habitual durante esta semana, validar si hubo trabajos en la sede.
 
  ## BC 777 - Parque Washington 
 
