@@ -6,11 +6,13 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 15 al 21 de julio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 22 al 28 de julio del 2024:
 
-<!--## BC 73 - Pereira
+## BC 73 - Pereira
 
-<!-- - El lunes 1 de abril la carga de aire acondicionado fue mayor que los otros días -->
+- La sede apagó el sistema de aire una hora mas tarde de lo habitual.
+
+<!-- ## BC 79 - La Quinta Ibague -->
 
  ## BC 81 - Avenida Kennedy
 
@@ -25,6 +27,8 @@
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
+
+
 <!-- ## BC 115 - Circunvalar Pereira
 
 <!-- - La sede mejoró su patrón de consumo.-->
@@ -36,14 +40,19 @@
 <!-- - La sede modificó su patrón de consumo histórico a partir del 30 de noviembre de 2023, especialmente en lo que respecta a los consumos nocturnos.-->
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
+
+<!-- BC 221 - Soacha -->
+
+
+
 <!--## BC 265 Valle de Lili
 
 - La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
 
 
-## BC 332 - Zipaquira
+<!-- ## BC 332 - Zipaquira
 
-- La sede presentó consumos nocturnos elevados las noches del 17 y 18 de julio, validar si se realizaron labores de mantenimineto.
+- La sede presentó consumos nocturnos elevados las noches del 17 y 18 de julio, validar si se realizaron labores de mantenimineto.-->
 
 <!-- ## BC 367 - Granada Meta 
 
@@ -57,9 +66,17 @@
 
 - Se presenta la desconexión de uno de los equipos de aire, se está trabajando en el arreglo de esta medida.
 
-<!-- ## BC 478 - Mix Vía 40 
+## BC 461 - La Carolina Unicentro
 
-- La sede presenta un consumo nocturno elevado la noche del 24 de abril, verificar si se presentaron trabajos operativos.-->
+- La medida de los aires es igual a la del totalizador, se está trabajando para arreglar esa situación.
+
+## BC 478 - Mix Vía 40 
+
+- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.
+
+## BC 479 - Pamplona
+
+- La medida de los aires acondicionados presenta un valor mucho menor a comparación con la medida del totalizador, se está realizando la validación de variable.
 
 ## BC 513 - El Dificil 
 
@@ -76,9 +93,9 @@
 
 - La sede apagó los equipos de aire horas más tarde de lo normal comparado con la línea base, validar la automatización de los equipos.-->
 
-<!-- ## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
 
-- La sede presenta un consumo nocturno la noche del 19 de junio, validar si se realizaron labores operativas.  -->
+- La sede presenta un consumo nocturno la noche del 22 de julio, validar si se realizaron labores operativas.
 
  ## BC 554 - Mall Plaza Buena Vista
 
@@ -87,6 +104,13 @@
 <!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
 
 <!-- - La sede presenta un conumo elevado el día 7 de julio que due domingo.-->
+
+## BC 583 - Riosucio
+
+- El patrón de consumo de la sede es irregular, mayormente durante los fines de semana.
+
+<!-- ## BC 619 - Plaza del Bosque Ibague-->
+
 
 <!--## BC 681 - Cerete
 
@@ -103,7 +127,7 @@
 
 ## BC 689 - Metropolis 
 
-- La carga de aire acondicionado se mantiene encendida durante los fines de semana, verificar la automatización del sistema.
+- El problema de automatización de la carga de aire acondicionado ha sido solucionado.
 
 <!-- ## BC 733 - La Unión Valle
 
@@ -117,13 +141,15 @@
 
 ## BC 775 - Bulevar 54
 
-- La sede tuvo horas de apagado de hasta tres horas más tarde de lo habitual durante esta semana, validar si hubo trabajos en la sede.
+- El consumo de la sede fue mayor al de la línea base duramnte la semana, probablemente sea causado por el clima.
 
  ## BC 777 - Parque Washington 
 
-<!-- - La sede presenta consumos noctrunos elevados durante la semana laboral a comparación con los fines de semana, validar si es posible equilibrar esos consumos en el sistema y reducirlos durante la semana.-->
+- La sede presenta consumos noctrunos elevados durante la semana laboral.
 
-- La sede presentó un patrón de consumo atípico causado por los equipos de aire acondicionado, se recomienda revisar la automatización.
+- El consumo de la sede aumentó durante la semana probablemente por clima.
+
+- La sede presentó consumos elevados el fin de semana, debido al encendido de los equipos de aires.
 
 <!-- ## BC 781 - Prado Plaza
 
