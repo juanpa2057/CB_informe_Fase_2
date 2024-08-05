@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 22 al 28 de julio del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 29 de Julio al 4 de Agosto del 2024:
 
 ## BC 73 - Pereira
 
@@ -15,6 +15,8 @@
 <!-- ## BC 79 - La Quinta Ibague -->
 
  ## BC 81 - Avenida Kennedy
+
+- La sede presentó consumos nocturnos elevados durante las noches del 31 de juilo al 2 de agosto.
 
 - La sede mantuvo encendido el aire acondicionado durante el fin de semana. 
 
@@ -62,6 +64,8 @@
 
 - Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas se sugiere realizar el apagado al igual que los otros días cuya hora es a las 19:00 horas.-->
 
+<!-- ## BC 385 - Villeta-->
+
 ## BC 388 - CC Hayuelos
 
 - Se presenta la desconexión de uno de los equipos de aire, se está trabajando en el arreglo de esta medida.
@@ -70,9 +74,9 @@
 
 - La medida de los aires es igual a la del totalizador, se está trabajando para arreglar esa situación.
 
-## BC 478 - Mix Vía 40 
+<!-- ## BC 478 - Mix Vía 40 
 
-- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.
+- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.-->
 
 ## BC 479 - Pamplona
 
@@ -80,7 +84,7 @@
 
 ## BC 513 - El Dificil 
 
-- El patron de consumo fue irregular durante la semana, presentando consumos nocturnos elevados.
+- El patrón de consumo mejoró durante esta semana, sin embargo se presenmtó un conusmo nocturno elevado la noche del31 de julio.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -95,7 +99,7 @@
 
 ## BC 517 - El Rodadero 
 
-- La sede presenta un consumo nocturno la noche del 22 de julio, validar si se realizaron labores operativas.
+- La sede presenta un consumo nocturno la noche del 30 de julio, validar si se realizaron labores operativas.
 
  ## BC 554 - Mall Plaza Buena Vista
 
@@ -125,9 +129,9 @@
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
-## BC 689 - Metropolis 
+<!-- ## BC 689 - Metropolis 
 
-- El problema de automatización de la carga de aire acondicionado ha sido solucionado.
+- El problema de automatización de la carga de aire acondicionado ha sido solucionado. -->
 
 <!-- ## BC 733 - La Unión Valle
 
@@ -139,9 +143,9 @@
 
 - La sede presenta consumos nocturnos elevado las noches del 5, 6 y 7 de junio, verficar si fue por labores de mantenimiento o problemas en la automatización.-->
 
-## BC 775 - Bulevar 54
+<!-- ## BC 775 - Bulevar 54
 
-- El consumo de la sede fue mayor al de la línea base duramnte la semana, probablemente sea causado por el clima.
+- El consumo de la sede fue mayor al de la línea base duramnte la semana, probablemente sea causado por el clima.-->
 
  ## BC 777 - Parque Washington 
 
