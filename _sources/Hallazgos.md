@@ -6,17 +6,17 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 29 de Julio al 4 de Agosto del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 5 al 11 de agosto de 2024.
 
-## BC 73 - Pereira
+<!--## BC 73 - Pereira
 
-- La sede apagó el sistema de aire una hora mas tarde de lo habitual.
+- La sede apagó el sistema de aire una hora mas tarde de lo habitual.-->
 
 <!-- ## BC 79 - La Quinta Ibague -->
 
  ## BC 81 - Avenida Kennedy
 
-- La sede presentó consumos nocturnos elevados durante las noches del 31 de juilo al 2 de agosto.
+<!--- La sede presentó consumos nocturnos elevados durante las noches del 31 de juilo al 2 de agosto.-->
 
 - La sede mantuvo encendido el aire acondicionado durante el fin de semana. 
 
@@ -31,11 +31,11 @@
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
 
-<!-- ## BC 115 - Circunvalar Pereira
+## BC 115 - Circunvalar Pereira
 
 <!-- - La sede mejoró su patrón de consumo.-->
 
-<!-- - La sede encendió el equipo de aire acondicionado el dia lunes 1 de Julio, que representa un día festivo. --<>
+- La sede encendió el equipo de aire acondicionado el dia miércoles 7 de agosto, que representa un día festivo.
 
 <!-- -El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan -->
 
@@ -43,9 +43,9 @@
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
-<!-- BC 221 - Soacha -->
+## BC 221 - Soacha
 
-
+- Hubo perdida de datos desde el día 8 de agosto.
 
 <!--## BC 265 Valle de Lili
 
@@ -64,7 +64,9 @@
 
 - Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas se sugiere realizar el apagado al igual que los otros días cuya hora es a las 19:00 horas.-->
 
-<!-- ## BC 385 - Villeta-->
+## BC 385 - Villeta
+
+- La sede encendió el equipo de aire acondicionado el dia miércoles 7 de agosto, que representa un día festivo.
 
 ## BC 388 - CC Hayuelos
 
@@ -84,7 +86,7 @@
 
 ## BC 513 - El Dificil 
 
-- El patrón de consumo mejoró durante esta semana, sin embargo se presenmtó un conusmo nocturno elevado la noche del31 de julio.
+- La sede presentó un conusmo nocturno elevado la noche del 5 de agosto.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -97,11 +99,13 @@
 
 - La sede apagó los equipos de aire horas más tarde de lo normal comparado con la línea base, validar la automatización de los equipos.-->
 
-## BC 517 - El Rodadero 
+<!-- ## BC 517 - El Rodadero 
 
-- La sede presenta un consumo nocturno la noche del 30 de julio, validar si se realizaron labores operativas.
+- La sede presenta un consumo nocturno la noche del 30 de julio, validar si se realizaron labores operativas.-->
 
  ## BC 554 - Mall Plaza Buena Vista
+
+- La sede encendió el equipo de aire acondicionado el dia miércoles 7 de agosto, que representa un día festivo.
 
 - La carga de aires de la sede queda encendida las noches de los viernes, validar que sucede con la automatización del apagado.
 
@@ -111,7 +115,7 @@
 
 ## BC 583 - Riosucio
 
-- El patrón de consumo de la sede es irregular, mayormente durante los fines de semana.
+- El patrón de consumo en los fines de semana mejoró.
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
@@ -129,9 +133,9 @@
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
-<!-- ## BC 689 - Metropolis 
+## BC 689 - Metropolis 
 
-- El problema de automatización de la carga de aire acondicionado ha sido solucionado. -->
+- La sede encendió el equipo de aire acondicionado el dia miércoles 7 de agosto, que representa un día festivo.
 
 <!-- ## BC 733 - La Unión Valle
 
@@ -149,9 +153,11 @@
 
  ## BC 777 - Parque Washington 
 
-- La sede presenta consumos noctrunos elevados durante la semana laboral.
+- La sede encendió el equipo de aire acondicionado el dia miércoles 7 de agosto, que representa un día festivo.
 
-- El consumo de la sede aumentó durante la semana probablemente por clima.
+- La sede presenta un consumo nocturno elevado la noche del 7 de agosto.
+
+- La sede presenta consumos noctrunos elevados durante la semana laboral.
 
 - La sede presentó consumos elevados el fin de semana, debido al encendido de los equipos de aires.
 
