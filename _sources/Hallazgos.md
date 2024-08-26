@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 12 al 19 de agosto de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 19 al 25 de agosto de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -45,22 +45,24 @@
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
+<!--## BC 138 - Mosquera-->
+
 ## BC 221 - Soacha
 
-- Hubo perdida de datos desde el día 15 de agosto.
+- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
 
-<!--## BC 265 Valle de Lili
+<!-- ## BC 265 Valle de Lili
 
 - La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
 
 
-<!-- ## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sede presentó consumos nocturnos elevados las noches del 17 y 18 de julio, validar si se realizaron labores de mantenimineto.-->
+- La sede presentó un consumo nocturno elevado la noche del 21 de Agosto, validar si se realizaron labores de mantenimineto.
 
-<!-- ## BC 367 - Granada Meta 
+## BC 367 - Granada Meta 
 
-- La sede normalizó su patrón de consumo.-->
+- Hubo pérdida de datos a partir del día 21 de Agosto.
 
 <!--## BC 384 - Anapoima 
 
@@ -94,9 +96,7 @@
 
 ## BC 513 - El Dificil 
 
-- La sede presentó un conusmo nocturno elevado la noche del 13 de agosto.
-
-- La sede presenta estos consumos nocturnos de manera recurrente.
+- La sede mejoró su patrón de consumo.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -154,10 +154,9 @@
 - La sede presentua un consumo nocturno la noche del 15 de agosto
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
+<!-- ## BC 772 - Caicedonia
 
-## BC 772 - Caicedonia
-
-- La sede presenta consumos nocturnos elevados durante toda la semana laboral, verficar si fue por problemas en la automatización.
+- La sede presenta consumos nocturnos elevados durante toda la semana laboral, verficar si fue por problemas en la automatización. -->
 
 <!-- ## BC 775 - Bulevar 54
 
@@ -184,6 +183,8 @@
 ## BC 892 - La Vega
 
 - Se presenta problemas con la medida de la frontera, se está trabajando en el arreglo de esta medida.
+
+- La sede presenta un consumo elevado el día 25 de agosto, que fue un día domingo.
 
 ## BC - Metropolitan
 
