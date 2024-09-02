@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 19 al 25 de agosto de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 25 de agosto al 1 de septiembre de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -31,13 +31,13 @@
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
 
-## BC 115 - Circunvalar Pereira
+<!--## BC 115 - Circunvalar Pereira-->
 
 <!-- - La sede mejoró su patrón de consumo.-->
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
+<!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
 
-- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.
+- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
 <!-- -El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan -->
 
@@ -45,20 +45,26 @@
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
-<!--## BC 138 - Mosquera-->
+<!-- ## BC 138 - Mosquera
 
-## BC 221 - Soacha
+- La sede presenta horas de apagado más tarde de lo que se apaga un sucursal normalmente.-->
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
+<!-- ## BC 221 - Soacha
+
+- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo. -->
 
 <!-- ## BC 265 Valle de Lili
 
 - La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
 
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
-- La sede presentó un consumo nocturno elevado la noche del 21 de Agosto, validar si se realizaron labores de mantenimineto.
+- La sede presentó un consumo nocturno elevado la noche del 21 de Agosto, validar si se realizaron labores de mantenimineto.-->
+
+## BC 334 - El Peñol
+
+- Se presentan problemas con las medidas, se está validando esta información
 
 ## BC 367 - Granada Meta 
 
@@ -68,11 +74,11 @@
 
 - Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas se sugiere realizar el apagado al igual que los otros días cuya hora es a las 19:00 horas.-->
 
-## BC 385 - Villeta
+<!-- ## BC 385 - Villeta
 
 - La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
 
-- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.
+- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
 ## BC 388 - CC Hayuelos
 
@@ -84,19 +90,21 @@
 
 ## BC 461 - La Carolina Unicentro
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
+- Se presenta un consumo nocturno elevado la noche del 27 de agosto.
 
-<!-- ## BC 478 - Mix Vía 40 
+## BC 478 - Mix Vía 40 
 
-- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.-->
+<!--- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.-->
+
+La sede presentó consumos nocturnos elevados durante la semana, comparados con la línea base.
 
 ## BC 479 - Pamplona
 
 - La medida de los aires acondicionados presenta un valor mucho menor a comparación con la medida del totalizador, se está realizando la validación de variable.
 
-## BC 513 - El Dificil 
+<!--## BC 513 - El Dificil 
 
-- La sede mejoró su patrón de consumo.
+- La sede mejoró su patrón de consumo. -->
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -105,19 +113,19 @@
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-<!-- ## BC 516 - Santa Marta
+<!--## BC 516 - Santa Marta-->
 
-- La sede apagó los equipos de aire horas más tarde de lo normal comparado con la línea base, validar la automatización de los equipos.-->
 
-<!-- ## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
 
-- La sede presenta un consumo nocturno la noche del 30 de julio, validar si se realizaron labores operativas.-->
+- Se presenta un consumo nocturno elevado la noche del 28 de agosto, validar si se realizaron trabajos operativos.
+
 
  ## BC 554 - Mall Plaza Buena Vista
 
 - La carga de aires de la sede queda encendida las noches de los viernes, validar que sucede con la automatización del apagado.
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
+<!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.-->
 
 <!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
 
@@ -132,8 +140,7 @@
 
 ## BC 681 - Cerete
 
-- La sede presentaba problemas con la instalación de la medida de los equipos de aire. este problema se ha solucionado y se verá reflejado en el informe de la siguiente semana.
-
+- El problema con la instalación de la medida de los equipos de aire ha sido solucionado.
 <!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
@@ -145,13 +152,11 @@
 
 ## BC 689 - Metropolis 
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
+- La sede dejo encedido el sistema de aire acondicionado durante el fim de semana.
 
-- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.
+<!--## BC 733 - La Unión Valle
 
-## BC 733 - La Unión Valle
-
-- La sede presentua un consumo nocturno la noche del 15 de agosto
+- La sede presentua un consumo nocturno la noche del 15 de agosto-->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 <!-- ## BC 772 - Caicedonia
@@ -164,13 +169,13 @@
 
  ## BC 777 - Parque Washington 
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
+<!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
 
-- La sede presenta un consumo nocturno elevado la noche del 19 de agosto.
+- La sede presenta un consumo nocturno elevado la noche del 19 de agosto.-->
 
 - La sede presenta consumos noctrunos elevados durante la semana laboral.
 
-- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.
+<!--- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
 <!-- ## BC 781 - Prado Plaza
 
@@ -182,10 +187,11 @@
 
 ## BC 892 - La Vega
 
+- La sede presentó un consumo elevado la noche del domingo 26 de agosto.
+
 - Se presenta problemas con la medida de la frontera, se está trabajando en el arreglo de esta medida.
 
-- La sede presenta un consumo elevado el día 25 de agosto, que fue un día domingo.
 
-## BC - Metropolitan
+<!--## BC - Metropolitan
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
+- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo. -->
