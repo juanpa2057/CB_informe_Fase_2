@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 25 de agosto al 1 de septiembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 2 al 9 de septiembre de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -23,9 +23,9 @@
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
 
-## BC 111 - Corozal
+<!-- ## BC 111 - Corozal
 
-- Se presenta desconexión en los de aire, se está trabjando para reestablecer la comunicación.
+- Se presenta desconexión en los de aire, se está trabjando para reestablecer la comunicación. -->
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
@@ -62,9 +62,9 @@
 
 - La sede presentó un consumo nocturno elevado la noche del 21 de Agosto, validar si se realizaron labores de mantenimineto.-->
 
-## BC 334 - El Peñol
+<!-- ## BC 334 - El Peñol
 
-- Se presentan problemas con las medidas, se está validando esta información
+- Se presentan problemas con las medidas, se está validando esta información -->
 
 ## BC 367 - Granada Meta 
 
@@ -74,37 +74,35 @@
 
 - Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas se sugiere realizar el apagado al igual que los otros días cuya hora es a las 19:00 horas.-->
 
-<!-- ## BC 385 - Villeta
+## BC 385 - Villeta
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
-
-- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
+- El equipo presento problemas de comunicación el día 4 de septiembre 
 
 ## BC 388 - CC Hayuelos
 
-- Se presenta la desconexión de uno de los equipos de aire, se está trabajando en el arreglo de esta medida.
+- La sede presenta consumos nocturnos elevados las noches del 4, 5 y 6 de semptiembre.
 
-## BC 415 - El Retiro
+<!--## BC 415 - El Retiro
 
-- Se presentan problemas con la medida de los aires, se está realizando la revisón.
+- Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-## BC 461 - La Carolina Unicentro
+<!--## BC 461 - La Carolina Unicentro
 
-- Se presenta un consumo nocturno elevado la noche del 27 de agosto.
+- Se presenta un consumo nocturno elevado la noche del 27 de agosto. -->
 
-## BC 478 - Mix Vía 40 
+<!--## BC 478 - Mix Vía 40 -->
 
 <!--- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.-->
 
-La sede presentó consumos nocturnos elevados durante la semana, comparados con la línea base.
+<!--La sede presentó consumos nocturnos elevados durante la semana, comparados con la línea base.-->
 
-## BC 479 - Pamplona
+<!--## BC 479 - Pamplona
 
-- La medida de los aires acondicionados presenta un valor mucho menor a comparación con la medida del totalizador, se está realizando la validación de variable.
+- La medida de los aires acondicionados presenta un valor mucho menor a comparación con la medida del totalizador, se está realizando la validación de variable. -->
 
-<!--## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
-- La sede mejoró su patrón de consumo. -->
+- La sede presentó un consumo nocturno elevado la noche del 6 de septiempre y un consumo a baja carga el viernes, validar si se realizaron labores de mantenimiento.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -118,12 +116,13 @@ La sede presentó consumos nocturnos elevados durante la semana, comparados con 
 
 ## BC 517 - El Rodadero 
 
-- Se presenta un consumo nocturno elevado la noche del 28 de agosto, validar si se realizaron trabajos operativos.
-
+- La sede tuvo un consumo nocturno elevado la noche del 4 de septiembre, validar si se realizaron actividades de mantenimiento.
 
  ## BC 554 - Mall Plaza Buena Vista
 
-- La carga de aires de la sede queda encendida las noches de los viernes, validar que sucede con la automatización del apagado.
+- La sede mantenía la carga de aires acondicionados encendida durante las noches de los viernes, esta situación de vió normalizada esta semana.
+
+- Aún se tiene el problema del encendodo de aire durante los días correspondientes a domingo.
 
 <!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.-->
 
@@ -137,10 +136,13 @@ La sede presentó consumos nocturnos elevados durante la semana, comparados con 
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
+## BC 673 - Calle 80
 
-## BC 681 - Cerete
+- La sede presenta problemas con la automatización, encendiendo el sistema de aires acondicionados durante los fines de semana como si fueran días laborales.
 
-- El problema con la instalación de la medida de los equipos de aire ha sido solucionado.
+<!-- ## BC 681 - Cerete
+
+- El problema con la instalación de la medida de los equipos de aire ha sido solucionado.-->
 <!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
@@ -152,7 +154,7 @@ La sede presentó consumos nocturnos elevados durante la semana, comparados con 
 
 ## BC 689 - Metropolis 
 
-- La sede dejo encedido el sistema de aire acondicionado durante el fim de semana.
+- Se presentó un consumo nocturno elevado en la madrugada del día 2 de septiembre, este problema hace parte de la falla en el apagado en el fin de semana presentado durante la semana pasada.
 
 <!--## BC 733 - La Unión Valle
 
@@ -172,6 +174,7 @@ La sede presentó consumos nocturnos elevados durante la semana, comparados con 
 <!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
 
 - La sede presenta un consumo nocturno elevado la noche del 19 de agosto.-->
+- La sede presentó consumos elevados durante el fin de semana, la situación presentada en el apagado durante la semana se vió reflejada durante el fin de semana.
 
 - La sede presenta consumos noctrunos elevados durante la semana laboral.
 
@@ -189,7 +192,6 @@ La sede presentó consumos nocturnos elevados durante la semana, comparados con 
 
 - La sede presentó un consumo elevado la noche del domingo 26 de agosto.
 
-- Se presenta problemas con la medida de la frontera, se está trabajando en el arreglo de esta medida.
 
 
 <!--## BC - Metropolitan
