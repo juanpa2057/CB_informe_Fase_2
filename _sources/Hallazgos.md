@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 9 al 15 de septiembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 16 al 22 de septiembre de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -49,18 +49,18 @@
 
 - La sede presenta horas de apagado más tarde de lo que se apaga un sucursal normalmente.-->
 
-<!-- ## BC 221 - Soacha
+## BC 221 - Soacha
 
-- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo. -->
+- La sede presentó consumos elevados durante el fin de semana, validar si se realizaron labores de mantenimiento.
 
-<!-- ## BC 265 Valle de Lili
+## BC 265 Valle de Lili
 
-- La sede apagó los equipos de aire en una hora más tarde de lo normal respecto a la línea base.-->
+- Se evidencia una diferencia del consumo promedio diario de 63.97 kWh/dia, lo que representa un 65 % de aumento respecto a la línea base.
 
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sede presentó un consumo nocturno elevado la noche del 21 de Agosto, validar si se realizaron labores de mantenimineto.-->
+- La sede presentó consumos elevados durante el fin de semana, validar si se realizaron labores de mantenimiento.
 
 <!-- ## BC 334 - El Peñol
 
@@ -68,7 +68,7 @@
 
 ## BC 367 - Granada Meta 
 
-- Hubo pérdida de datos a partir del día 21 de Agosto.
+- Se reestableció la comunicación con la sede el día 20 de Septiembre, se espera que la sede se vuelva a incorporar en el informe la siguiente semana.
 
 <!--## BC 384 - Anapoima 
 
@@ -76,19 +76,23 @@
 
 ## BC 385 - Villeta
 
-- La sede presentó un consumo nocturno elevado la noche del 11 de semptiembre a causa del equipo de aire acondicionado verificar la razón.
+- La sede presentó consumos elevados en durante la semana laboral durante los días 18 y 19 de septiembre.
+
+- Se evidencia una diferencia del consumo promedio diario de 48.83 kWh/dia, lo que representa un 44 % de aumento respecto a la línea base.
 
 ## BC 388 - CC Hayuelos
 
-- La sede presenta un consumo nocturno elevado la noche del 9 de septiembre a causa del aire acondicionado, validar la razón.
+- Se presenta un cambio en el patrón de consumo la noche del 19 de septiembre, dejando el sistema encendido durante el resto de la semana, validar si fue problema de automatización o de disciplina operativa.
+
+- 
 
 <!--## BC 415 - El Retiro
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-<!--## BC 461 - La Carolina Unicentro
+## BC 461 - La Carolina Unicentro
 
-- Se presenta un consumo nocturno elevado la noche del 27 de agosto. -->
+- La sede presenta consumos nocturnos elevados las noches del 17 y 19 de septiembre, dejando el sistema de aires encendido durante estos periodos de tiempo.
 
 <!--## BC 478 - Mix Vía 40 -->
 
@@ -100,9 +104,9 @@
 
 - La medida de los aires acondicionados presenta un valor mucho menor a comparación con la medida del totalizador, se está realizando la validación de variable. -->
 
-<!--## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
-- La sede presentó un consumo nocturno elevado la noche del 6 de septiempre y un consumo a baja carga el viernes, validar si se realizaron labores de mantenimiento.-->
+- La sede presentó irregularidades en el patrón de consumo durante la semana, presentando consumos nocturnos y de fin de semana elevados.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -116,23 +120,20 @@
 
 ## BC 517 - El Rodadero 
 
-- La sede tuvo un consumo nocturno elevado la noche del 13 de septiembre, validar si se realizaron actividades de mantenimiento.
+- La sede tuvo un consumo nocturno elevado la noche del 17 de septiembre, validar si se realizaron actividades de mantenimiento.
 
  ## BC 554 - Mall Plaza Buena Vista
 
-- La sede durante la anterior semana a la de estudio, se vio reflejada la solución de que el aire acondicionado se mantenía encendido durante las noches de los viernes, sin embargo esta semana se volvió a presentar el problema.
-
-- Aún se tiene el problema del encendodo de aire durante los días correspondientes a domingo.
+- La sede presenta consumos nocutornos elevados las noches de los viernes y consumos elevados durante el fin de semana en horarios no laborales
 
 <!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.-->
 
 <!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
 
 <!-- - La sede presenta un conumo elevado el día 7 de julio que due domingo.-->
+## BC 583 - Riosucio
 
-<!--## BC 583 - Riosucio
-
-- El patrón de consumo en los fines de semana mejoró. -->
+- La sede presentó consumos de fin de semana elevados a comparación con la línea base.
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
@@ -161,9 +162,9 @@
 - La sede presentua un consumo nocturno la noche del 15 de agosto-->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
-<!-- ## BC 772 - Caicedonia
+## BC 772 - Caicedonia
 
-- La sede presenta consumos nocturnos elevados durante toda la semana laboral, verficar si fue por problemas en la automatización. -->
+- La sede presenta consumos elevados la noche del domingo 22 de spetiembre.
 
 <!-- ## BC 775 - Bulevar 54
 
