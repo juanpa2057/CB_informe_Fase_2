@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 16 al 22 de septiembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 23 al 29 de septiembre de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -51,40 +51,38 @@
 
 ## BC 221 - Soacha
 
-- La sede presentó consumos elevados durante el fin de semana, validar si se realizaron labores de mantenimiento.
+- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo.
 
-## BC 265 Valle de Lili
+<!--## BC 265 Valle de Lili
 
-- Se evidencia una diferencia del consumo promedio diario de 63.97 kWh/dia, lo que representa un 65 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 63.97 kWh/dia, lo que representa un 65 % de aumento respecto a la línea base.-->
 
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
-- La sede presentó consumos elevados durante el fin de semana, validar si se realizaron labores de mantenimiento.
+- La sede presentó consumos elevados durante el fin de semana, validar si se realizaron labores de mantenimiento.-->
 
 <!-- ## BC 334 - El Peñol
 
 - Se presentan problemas con las medidas, se está validando esta información -->
 
-## BC 367 - Granada Meta 
+<!--## BC 367 - Granada Meta 
 
 - Se reestableció la comunicación con la sede el día 20 de Septiembre, se espera que la sede se vuelva a incorporar en el informe la siguiente semana.
+-->
+## BC 384 - Anapoima 
 
-<!--## BC 384 - Anapoima 
+- La sede apagó el aire en un horario más tarde de lo habitual el día 27 de semptiempre, validar la razón.
 
-- Los días miércoles la sede apaga a el aire acondicionado a las 20:00 horas se sugiere realizar el apagado al igual que los otros días cuya hora es a las 19:00 horas.-->
-
-## BC 385 - Villeta
+<!--## BC 385 - Villeta
 
 - La sede presentó consumos elevados en durante la semana laboral durante los días 18 y 19 de septiembre.
 
-- Se evidencia una diferencia del consumo promedio diario de 48.83 kWh/dia, lo que representa un 44 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 48.83 kWh/dia, lo que representa un 44 % de aumento respecto a la línea base.-->
 
 ## BC 388 - CC Hayuelos
 
-- Se presenta un cambio en el patrón de consumo la noche del 19 de septiembre, dejando el sistema encendido durante el resto de la semana, validar si fue problema de automatización o de disciplina operativa.
-
-- 
+- La sede presenta un problema con el apagado del sistema dejando encendido los equipos desde el 24 hasta el 28 de septiembre, la anterior semana se presentó una situación similar.
 
 <!--## BC 415 - El Retiro
 
@@ -92,7 +90,7 @@
 
 ## BC 461 - La Carolina Unicentro
 
-- La sede presenta consumos nocturnos elevados las noches del 17 y 19 de septiembre, dejando el sistema de aires encendido durante estos periodos de tiempo.
+- La sede presenta consumos nocturnos elevados la noche del 24 de septiembre.
 
 <!--## BC 478 - Mix Vía 40 -->
 
@@ -106,7 +104,7 @@
 
 ## BC 513 - El Dificil 
 
-- La sede presentó irregularidades en el patrón de consumo durante la semana, presentando consumos nocturnos y de fin de semana elevados.
+- La sede mejoró su partrón de consumo durante esta semana.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -115,16 +113,18 @@
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-<!--## BC 516 - Santa Marta-->
+## BC 516 - Santa Marta
+
+- Se evidencia una diferencia del consumo promedio diario de 50.75 kWh/dia, lo que representa un 16 % de disminución respecto a la línea base.
 
 
 ## BC 517 - El Rodadero 
 
-- La sede tuvo un consumo nocturno elevado la noche del 17 de septiembre, validar si se realizaron actividades de mantenimiento.
+- La sede tuvo un apagado del sistema tardío la noche del 25 de septiembre.
 
  ## BC 554 - Mall Plaza Buena Vista
 
-- La sede presenta consumos nocutornos elevados las noches de los viernes y consumos elevados durante el fin de semana en horarios no laborales
+- La sede presenta consumos nocutornos elevados las noches de los viernes y consumos elevados durante el fin de semana en horarios no laborales.
 
 <!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.-->
 
@@ -133,13 +133,13 @@
 <!-- - La sede presenta un conumo elevado el día 7 de julio que due domingo.-->
 ## BC 583 - Riosucio
 
-- La sede presentó consumos de fin de semana elevados a comparación con la línea base.
+- La sede presentó consumos elevados la madrugada del 24 de septiembre a causa del aire acondicionado.
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
-<!--## BC 673 - Calle 80
+## BC 673 - Calle 80
 
-- La sede presenta problemas con la automatización, encendiendo el sistema de aires acondicionados durante los fines de semana como si fueran días laborales.-->
+- La sede presenta problemas con el apagado en horarios nocutrnos, se considera que no baja lo suficiente a comparación con otras sedes.
 
 <!-- ## BC 681 - Cerete
 
@@ -164,7 +164,7 @@
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 ## BC 772 - Caicedonia
 
-- La sede presenta consumos elevados la noche del domingo 22 de spetiembre.
+- La sede presenta un problema con el apagado desde el 22 hasta el 24 de septiembre, validar la razón.
 
 <!-- ## BC 775 - Bulevar 54
 
@@ -175,9 +175,12 @@
 <!--- La sede encendió el equipo de aire acondicionado el dia 19 de agosto, que representa un día festivo.
 
 - La sede presenta un consumo nocturno elevado la noche del 19 de agosto.-->
-- La sede presentaba problemas con el apagado de los equipos durante el fin de semana, este problema no se ve reflejado durante la semana de estudio.
+
+- La sede presenta un consumo elevado la noche del 25 de septiembre
 
 - La sede presenta consumos noctrunos elevados durante la semana laboral.
+
+- La sede operó el día sábado 28 de septiembre, históricamente la sede no ha operado los días sábado.
 
 <!--- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
