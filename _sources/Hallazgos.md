@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 23 al 29 de septiembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 30 de semtiembre al 6 de octubre de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -49,9 +49,9 @@
 
 - La sede presenta horas de apagado más tarde de lo que se apaga un sucursal normalmente.-->
 
-## BC 221 - Soacha
+<!--## BC 221 - Soacha
 
-- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo.
+- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
 <!--## BC 265 Valle de Lili
 
@@ -70,27 +70,25 @@
 
 - Se reestableció la comunicación con la sede el día 20 de Septiembre, se espera que la sede se vuelva a incorporar en el informe la siguiente semana.
 -->
-## BC 384 - Anapoima 
+<!--## BC 384 - Anapoima 
 
-- La sede apagó el aire en un horario más tarde de lo habitual el día 27 de semptiempre, validar la razón.
+- La sede apagó el aire en un horario más tarde de lo habitual el día 27 de semptiempre, validar la razón.-->
 
-<!--## BC 385 - Villeta
+## BC 385 - Villeta
 
-- La sede presentó consumos elevados en durante la semana laboral durante los días 18 y 19 de septiembre.
-
-- Se evidencia una diferencia del consumo promedio diario de 48.83 kWh/dia, lo que representa un 44 % de aumento respecto a la línea base.-->
+- La sede presentó un pequeño pico de consumo el día domingo 6 de octubre, validar si se realizaron labores de mantenimiento.
 
 ## BC 388 - CC Hayuelos
 
-- La sede presenta un problema con el apagado del sistema dejando encendido los equipos desde el 24 hasta el 28 de septiembre, la anterior semana se presentó una situación similar.
+- La sede solucionó los problemas con el apagado de los aires, en este momento la sede registra un consumo estable.
 
 <!--## BC 415 - El Retiro
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-## BC 461 - La Carolina Unicentro
+<!--## BC 461 - La Carolina Unicentro
 
-- La sede presenta consumos nocturnos elevados la noche del 24 de septiembre.
+- La sede presenta consumos nocturnos elevados la noche del 24 de septiembre. -->
 
 <!--## BC 478 - Mix Vía 40 -->
 
@@ -113,14 +111,14 @@
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-## BC 516 - Santa Marta
+<!--# BC 516 - Santa Marta
 
-- Se evidencia una diferencia del consumo promedio diario de 50.75 kWh/dia, lo que representa un 16 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 50.75 kWh/dia, lo que representa un 16 % de disminución respecto a la línea base. -->
 
 
-## BC 517 - El Rodadero 
+<!--## BC 517 - El Rodadero 
 
-- La sede tuvo un apagado del sistema tardío la noche del 25 de septiembre.
+- La sede tuvo un apagado del sistema tardío la noche del 25 de septiembre.-->
 
  ## BC 554 - Mall Plaza Buena Vista
 
@@ -131,15 +129,17 @@
 <!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
 
 <!-- - La sede presenta un conumo elevado el día 7 de julio que due domingo.-->
-## BC 583 - Riosucio
+<!--## BC 583 - Riosucio
 
-- La sede presentó consumos elevados la madrugada del 24 de septiembre a causa del aire acondicionado.
+- La sede presentó consumos elevados la madrugada del 24 de septiembre a causa del aire acondicionado.-->
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
 ## BC 673 - Calle 80
 
-- La sede presenta problemas con el apagado en horarios nocutrnos, se considera que no baja lo suficiente a comparación con otras sedes.
+- La sede presenta problemas con el apagado durante el fin de semana, el sistema queda encendido durante todo el fin de semana
+
+- La sede presenta pequeños picos de consumo en horarios nocturnos.
 
 <!-- ## BC 681 - Cerete
 
@@ -164,7 +164,7 @@
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 ## BC 772 - Caicedonia
 
-- La sede presenta un problema con el apagado desde el 22 hasta el 24 de septiembre, validar la razón.
+- La sede presenta horarios de apagado dos horas más tarde de lo normal durante la semana.
 
 <!-- ## BC 775 - Bulevar 54
 
@@ -176,11 +176,9 @@
 
 - La sede presenta un consumo nocturno elevado la noche del 19 de agosto.-->
 
-- La sede presenta un consumo elevado la noche del 25 de septiembre
 
 - La sede presenta consumos noctrunos elevados durante la semana laboral.
-
-- La sede operó el día sábado 28 de septiembre, históricamente la sede no ha operado los días sábado.
+.
 
 <!--- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
@@ -192,9 +190,9 @@
 
 - La sede presenta un pico de consumo el sábado en la mañana.-->
 
-<!--## BC 892 - La Vega
+## BC 892 - La Vega
 
-- La sede presentó un consumo elevado la noche del domingo 26 de agosto.-->
+- La sede presentó un patrón de consumo irregular durante la semana, presentando conusmos nocturnos elevados y consumos atípicos durante el fin de semana.
 
 
 
