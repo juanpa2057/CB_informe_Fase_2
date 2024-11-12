@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 28 de octubre al 4 de noviembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 4 al 11 de noviembre de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -33,7 +33,7 @@
 
 ## BC 115 - Circunvalar Pereira
 
-- La sede encedió el sistema de aire acondicionado el día 4 de noviembre que representa un día festivo.
+- La sede encedió el sistema de aire acondicionado los días 4 y 11 de noviembre que representan días festivos.
 
 <!-- - La sede mejoró su patrón de consumo.-->
 
@@ -51,10 +51,10 @@
 
 - La sede presenta horas de apagado más tarde de lo que se apaga un sucursal normalmente.-->
 
-## BC 221 - Soacha
+<!--## BC 221 - Soacha
 
 
-- La sede encedió el sistema de aire acondicionado el día 4 de noviembre que representa un día festivo.
+- La sede encedió el sistema de aire acondicionado el día 4 de noviembre que representa un día festivo. -->
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
@@ -65,17 +65,17 @@
 - Se evidencia una diferencia del consumo promedio diario de 63.97 kWh/dia, lo que representa un 65 % de aumento respecto a la línea base.-->
 
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sede apagó tarde el sistema de aires la noche del 17 de octubre. -->
+- La sede registró un consumo atípico el día sábado 9 de noviembre, verificar si se realizaron labores de mantenimiento.
 
 <!-- ## BC 334 - El Peñol
 
 - Se presentan problemas con las medidas, se está validando esta información -->
 
-<!--## BC 367 - Granada Meta 
+## BC 367 - Granada Meta 
 
-- Se reestableció la comunicación con la sede el día 20 de Septiembre, se espera que la sede se vuelva a incorporar en el informe la siguiente semana.
+- La sede encendió el sistema de aire acondicionado los días 10 y 11 de noviembre, que representan domingo y festivo respectivamente.
 -->
 <!--## BC 384 - Anapoima 
 
@@ -83,7 +83,7 @@
 
 ## BC 385 - Villeta
 
-- La sede encedió el sistema de aire acondicionado el día 4 de noviembre que representa un día festivo.
+- La sede encedió el sistema de aire acondicionado los días 4 y 11 de noviembre que representan días festivos.
 
 ## BC 388 - CC Hayuelos
 
@@ -95,7 +95,7 @@
 
 ## BC 461 - La Carolina Unicentro
 
-- La sede mantuvo encendida la carga de aires desde el 1 al 4 de noviembre, que representa fin de semana y festivo.
+- La sede normalizó su patrón de consumo, sin embargo encendió la carga de aires a carga parcial el día 11 que fue festivo.
 
 ## BC 478 - Mix Vía 40
 
@@ -109,9 +109,9 @@
 
 - La medida de los aires acondicionados presenta un valor mucho menor a comparación con la medida del totalizador, se está realizando la validación de variable. -->
 
-## BC 513 - El Dificil 
+<!---## BC 513 - El Dificil 
 
-- La sede presentó consumos nocturnos elevados las noches del 28 y 31 de octubre, dejando las cargas encendidas.
+- La sede presentó consumos nocturnos elevados las noches del 28 y 31 de octubre, dejando las cargas encendidas.-->
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -120,14 +120,14 @@
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-<!--# BC 516 - Santa Marta
+## BC 516 - Santa Marta
 
-- Se evidencia una diferencia del consumo promedio diario de 50.75 kWh/dia, lo que representa un 16 % de disminución respecto a la línea base. -->
+- La sede encendió el sistema de aire acondicionado el 10 de noviembre que fue domingo, validar si se realizaron labores de mantenimiento.
 
 
-## BC 517 - El Rodadero 
+<!--## BC 517 - El Rodadero 
 
-- La sede tuvo un apagado del sistema tardío la noche del 29 de octubre.
+- La sede tuvo un apagado del sistema tardío la noche del 29 de octubre.-->
 
  ## BC 554 - Mall Plaza Buena Vista
 
@@ -161,11 +161,11 @@
 
 ## BC 689 - Metropolis 
 
-- La sede encedió el sistema de aire acondicionado a carga parcial el día 4 de octubre que representa un día festivo.
+- La sede encedió el sistema de aire acondicionado a carga parcial los días 4 y 11 de noviembre que representan festivos.
 
-## BC 733 - La Unión Valle
+<!--## BC 733 - La Unión Valle
 
-- La sede presentua un consumo nocturno la noche del 31 de octubre.
+- La sede presentua un consumo nocturno la noche del 31 de octubre. -->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 <!--## BC 772 - Caicedonia -->
@@ -174,14 +174,14 @@
 
 ## BC 775 - Bulevar 54
 
-- La sede alcanzó a ser apagada el día 4 de octubre que fue festivo.
+- La sede se encidió el sistema de aires el día 11 de noviembr que representa un día festivo.
 
  ## BC 777 - Parque Washington 
 
 - La sede presentó un patrón de consumo inestable, al parecer la sede presenta problemas con la automatización.
 <!--- La sede presenta un consumo nocturno elevado la noche del 19 de agosto.-->
 
-- La sede presenta consumos noctrunos elevados durante la semana laboral.
+- La sede presenta consumos nocturnos elevados durante la semana laboral.
 .
 
 <!--- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
@@ -200,7 +200,7 @@
 
 ## BC 892 - La Vega
 
-- La sede encedió el sistema de aire acondicionado el día 4 de noviembre que representa un día festivo.
+- La sede presentó problemas con la automatización del sistema de aire acondicionado, durante el fin de semana y festivo.
 
 <!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
 
