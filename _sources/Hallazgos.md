@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 4 al 11 de noviembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 18 al 25 de noviembre de 2024.
 
 <!--## BC 73 - Pereira
 
@@ -22,6 +22,8 @@
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
+- La sede apagó el sistema de aires el día sábado 23 de noviembre sin embargo no afecta en el problema con la automatización.
+
 
 <!-- ## BC 111 - Corozal
 
@@ -31,9 +33,9 @@
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
 
-## BC 115 - Circunvalar Pereira
+<!--## BC 115 - Circunvalar Pereira
 
-- La sede encedió el sistema de aire acondicionado el día 11 de noviembre que representa un día festivo.
+- La sede encedió el sistema de aire acondicionado el día 11 de noviembre que representa un día festivo.-->
 
 <!-- - La sede mejoró su patrón de consumo.-->
 
@@ -64,29 +66,29 @@
 - Se evidencia una diferencia del consumo promedio diario de 63.97 kWh/dia, lo que representa un 65 % de aumento respecto a la línea base.-->
 
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
-- La sede registró un consumo atípico el día sábado 9 de noviembre, verificar si se realizaron labores de mantenimiento.
+- La sede registró un consumo atípico el día sábado 9 de noviembre, verificar si se realizaron labores de mantenimiento.-->
 
 <!-- ## BC 334 - El Peñol
 
 - Se presentan problemas con las medidas, se está validando esta información -->
 
-## BC 367 - Granada Meta 
+<!-- ## BC 367 - Granada Meta 
 
-- Presentó perdida de comunicación el 13 de noviembre.
+- Presentó perdida de comunicación el 13 de noviembre.-->
 
 ## BC 384 - Anapoima 
 
-- La sede presentó un consumo nocturno levado la noche del 13 de noviembre, el sistema de aire acondicionado se quedó encendido.
+- La sede presentó un consumo nocturno elevado la noche del 22 de noviembre, el sistema de aire acondicionado se quedó encendido.
 
-## BC 385 - Villeta
+<!-- ## BC 385 - Villeta
 
-- La sede encedió el sistema de aire acondicionado el día 11 de noviembre que representa un día festivo.
+- La sede encedió el sistema de aire acondicionado el día 11 de noviembre que representa un día festivo. -->
 
 ## BC 388 - CC Hayuelos
 
-- La sede dejó encendido el sistema de aire acondicionado durante el fin de semana.
+- La sede dejó encendido el sistema de aire acondicionado durante el fin de semana pasado hasta el lunes de esta semana.
 
 <!--## BC 415 - El Retiro
 
@@ -94,23 +96,23 @@
 
 ## BC 461 - La Carolina Unicentro
 
-- La sede presentó un consumo nocturno elevado la noche del 12 de noviembre, dejando el sistema de aire encendido.
+- La sede presentó un consumo nocturno elevado la noche del 19 de noviembre, dejando el sistema de aire encendido.
 
-## BC 478 - Mix Vía 40
+<!--## BC 478 - Mix Vía 40
 
-- La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento.
+- La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento.-->
 
 <!--- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.-->
 
 <!--La sede presentó consumos nocturnos elevados durante la semana, comparados con la línea base.-->
 
-## BC 479 - Pamplona
+<!--## BC 479 - Pamplona
 
-- La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento.
+- La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-<!---## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
-- La sede presentó consumos nocturnos elevados las noches del 28 y 31 de octubre, dejando las cargas encendidas.-->
+- Se arregló la medida de aires acondicionados.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -121,20 +123,17 @@
 
 ## BC 516 - Santa Marta
 
-- Se evidencia una diferencia del consumo promedio diario de 55.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base.
-
-- La sede encendió la carga de aire acondicionado durante el fin de semana.
+- Se evidencia una diferencia del consumo promedio diario de 57.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base.
 
 
 ## BC 517 - El Rodadero 
 
-- La sede presenta un patrón de consumo irregular durante la semana.
+- La sede encendió el sistema de aires la noche del 20 de noviembre, validar si se realizaron labores de mantenimiento.
 
- ## BC 554 - Mall Plaza Buena Vista
+## BC 554 - Mall Plaza Buena Vista
 
 - La sede presenta consumos nocturnos elevados las noches de los viernes y consumos elevados durante el fin de semana en horarios no laborales.
 
-- La sede encendió el equipo de aire acondicionado el dia 4 de noviembre, que representa un día festivo.
 
 <!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
 
@@ -162,18 +161,18 @@
 
 ## BC 689 - Metropolis 
 
-- Se evidencia una diferencia del consumo promedio diario de 43.54 kWh/dia, lo que representa un 44 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 28.97 kWh/dia, lo que representa un 30 % de disminución respecto a la línea base.
 
-- La sede encedió el sistema de aire acondicionado el día 11 de noviembre que representa un día festivo.
+- La sede encendió el sistema de aires la madrigada del 22 de noviembre, validar si se realizaron labores de mantenimiento.
 
 <!--## BC 733 - La Unión Valle
 
 - La sede presentua un consumo nocturno la noche del 31 de octubre. -->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
-## BC 772 - Caicedonia 
+<!--## BC 772 - Caicedonia 
 
-- La sede presenta un consumo atípico el día domingo 17 de noviembre, validar si se presentaron labores de mantenimiento en el lugar.
+- La sede presenta un consumo atípico el día domingo 17 de noviembre, validar si se presentaron labores de mantenimiento en el lugar. -->
 
 <!--- La sede presenta un consumo atípico la noche del 10 de octubre.-->
 
