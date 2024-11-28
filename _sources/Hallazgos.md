@@ -163,7 +163,7 @@
 
 - Se evidencia una diferencia del consumo promedio diario de 28.97 kWh/dia, lo que representa un 30 % de disminución respecto a la línea base.
 
-- La sede encendió el sistema de aires la madrigada del 22 de noviembre, validar si se realizaron labores de mantenimiento.
+- La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento.
 
 <!--## BC 733 - La Unión Valle
 
