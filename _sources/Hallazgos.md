@@ -6,23 +6,21 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 18 al 25 de noviembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 25 de noviembre al 1 de diciembre de 2024.
 
 <!--## BC 73 - Pereira
 
 - La sede presenta cambios en el setpoint durante los horarios laborales.-->
 
-<!--## BC 79 - La Quinta Ibague
+ ## BC 79 - La Quinta Ibague
 
-- La sede presenta un consumo atípico el sábado 27 de Octubre en horas de la tarde, validar si se realizaron labores operativas.-->
+- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización.
 
  ## BC 81 - Avenida Kennedy
 
 - La sede mantuvo encendido el aire acondicionado durante el fin de semana y el lunes festivo. 
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
-
-- La sede apagó el sistema de aires el día sábado 23 de noviembre sin embargo no afecta en el problema con la automatización.
 
 
 <!-- ## BC 111 - Corozal
@@ -80,23 +78,23 @@
 
 ## BC 384 - Anapoima 
 
-- La sede presentó un consumo nocturno elevado la noche del 22 de noviembre, el sistema de aire acondicionado se quedó encendido.
+- La sede presenta un patrón de consumo atípico durante la semana, el sistema de aire acondicionado se quedó encendido durante las noches y el fin de semana.
 
-<!-- ## BC 385 - Villeta
+## BC 385 - Villeta
 
-- La sede encedió el sistema de aire acondicionado el día 11 de noviembre que representa un día festivo. -->
+- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización.
 
 ## BC 388 - CC Hayuelos
 
-- La sede dejó encendido el sistema de aire acondicionado durante el fin de semana pasado hasta el lunes de esta semana.
+- La sede presentó un consumo nocturno elevado la noche del 28 de noviembre.
 
 <!--## BC 415 - El Retiro
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-## BC 461 - La Carolina Unicentro
+<!--## BC 461 - La Carolina Unicentro
 
-- La sede presentó un consumo nocturno elevado la noche del 19 de noviembre, dejando el sistema de aire encendido.
+- La sede presentó un consumo nocturno elevado la noche del 19 de noviembre, dejando el sistema de aire encendido. -->
 
 <!--## BC 478 - Mix Vía 40
 
@@ -110,9 +108,9 @@
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-## BC 513 - El Dificil 
+<!--## BC 513 - El Dificil 
 
-- Se arregló la medida de aires acondicionados.
+- Se arregló la medida de aires acondicionados. -->
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -121,14 +119,14 @@
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-## BC 516 - Santa Marta
+<!-- ## BC 516 - Santa Marta
 
-- Se evidencia una diferencia del consumo promedio diario de 57.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 57.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base. -->
 
 
-## BC 517 - El Rodadero 
+<!--## BC 517 - El Rodadero 
 
-- La sede encendió el sistema de aires la noche del 20 de noviembre, validar si se realizaron labores de mantenimiento.
+- La sede encendió el sistema de aires la noche del 20 de noviembre, validar si se realizaron labores de mantenimiento. -->
 
 ## BC 554 - Mall Plaza Buena Vista
 
@@ -159,11 +157,11 @@
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
-## BC 689 - Metropolis 
+<!--## BC 689 - Metropolis 
 
 - Se evidencia una diferencia del consumo promedio diario de 28.97 kWh/dia, lo que representa un 30 % de disminución respecto a la línea base.
 
-- La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento.
+- La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento. -->
 
 <!--## BC 733 - La Unión Valle
 
@@ -187,7 +185,9 @@
 
 - La sede presenta consumos nocturnos elevados durante la semana laboral.
 
-- Se solucionó la situciaíon que la sede presentaba sobre los encendidos de los equipos durante los fines de semana, sin embargo siguen quedandose encendidos en horarios nocturnos.
+- La sede encendió el sistema de aires durante el fin de semana.
+
+<!--- Se solucionó la situciaíon que la sede presentaba sobre los encendidos de los equipos durante los fines de semana, sin embargo siguen quedandose encendidos en horarios nocturnos.-->
 
 <!--- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
@@ -195,9 +195,9 @@
 
 - la sede presentó consumos nocturnos elevados en comparación a la línea base por causa del sistema de aires acondicionados desde el 8 al 12 de octubre.-->
 
-<!-- ## BC 802 - Puerto Lopez 
+## BC 802 - Puerto Lopez 
 
-- La sede presenta un pico de consumo el sábado en la mañana.-->
+- La sede encendió el sistema de aires durante el fin de semana.
 
 <!--## BC 832 - San Francisco de Paula
 
