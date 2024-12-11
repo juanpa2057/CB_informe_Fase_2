@@ -6,15 +6,15 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 25 de noviembre al 1 de diciembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 2 al 8 de diciembre de 2024.
 
 <!--## BC 73 - Pereira
 
 - La sede presenta cambios en el setpoint durante los horarios laborales.-->
 
- ## BC 79 - La Quinta Ibague
+ <!--## BC 79 - La Quinta Ibague
 
-- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización.
+- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización. -->
 
  ## BC 81 - Avenida Kennedy
 
@@ -50,10 +50,9 @@
 
 - Presentó perdida de comunicación el 12 de noviembre.
 
-<!--## BC 221 - Soacha
+## BC 221 - Soacha
 
-
-- La sede encedió el sistema de aire acondicionado el día 4 de noviembre que representa un día festivo. -->
+- Se evidencia una diferencia del consumo promedio diario de 38.37 kWh/dia, lo que representa un 43 % de aumento respecto a la línea base.
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
@@ -78,23 +77,24 @@
 
 ## BC 384 - Anapoima 
 
-- La sede presenta un patrón de consumo atípico durante la semana, el sistema de aire acondicionado se quedó encendido durante las noches y el fin de semana.
+- La sede normalizó su patrón de consumo.
 
 ## BC 385 - Villeta
 
-- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización.
+- La sede corrigío en consumo atípico ocurrio el fin de semana pasado.
 
 ## BC 388 - CC Hayuelos
 
-- La sede presentó un consumo nocturno elevado la noche del 28 de noviembre.
+- La sede tiene una oportunidad de mejora con los horarios de apagado del sistema de aires acondicionados, se aprecia que la hora de apagado regular de la sede es a las 11 de la noche.
 
 <!--## BC 415 - El Retiro
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-<!--## BC 461 - La Carolina Unicentro
+## BC 461 - La Carolina Unicentro
 
-- La sede presentó un consumo nocturno elevado la noche del 19 de noviembre, dejando el sistema de aire encendido. -->
+- La sede presentó un consumo nocturno elevado la noche del 2 de diciembre, dejando el sistema de aire encendido.
+- Ésta situación lleva presentándose de manera repetida durante varias semanas atrás.
 
 <!--## BC 478 - Mix Vía 40
 
@@ -104,7 +104,7 @@
 
 <!--La sede presentó consumos nocturnos elevados durante la semana, comparados con la línea base.-->
 
-<!--## BC 479 - Pamplona
+<!-- ## BC 479 - Pamplona
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
@@ -124,9 +124,9 @@
 - Se evidencia una diferencia del consumo promedio diario de 57.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base. -->
 
 
-<!--## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
 
-- La sede encendió el sistema de aires la noche del 20 de noviembre, validar si se realizaron labores de mantenimiento. -->
+- La sede encendió el sistema de aires la noche del 4 de diciembre, validar si se realizaron labores de mantenimiento.
 
 ## BC 554 - Mall Plaza Buena Vista
 
@@ -142,9 +142,10 @@
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
-<!--## BC 673 - Calle 80
+## BC 673 - Calle 80
 
-- La sede presentó un consumo nocturno elevado la noche del 22 de octubre.  -->  
+- La sede presentó un consumo nocturno elevado la noche del 4 de diciembre, se aprecia una hora de apagado tardía.
+
 <!-- ## BC 681 - Cerete
 
 - El problema con la instalación de la medida de los equipos de aire ha sido solucionado.-->
@@ -174,9 +175,9 @@
 
 <!--- La sede presenta un consumo atípico la noche del 10 de octubre.-->
 
-<!-- ## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- La sede se encidió el sistema de aires el día 11 de noviembr que representa un día festivo. -->
+- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.
 
  ## BC 777 - Parque Washington 
 
