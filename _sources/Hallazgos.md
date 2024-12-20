@@ -6,12 +6,12 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 2 al 8 de diciembre de 2024.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 9 al 15 de diciembre de 2024.
 
-<!--## BC 73 - Pereira
+## BC 73 - Pereira
 
-- La sede presenta cambios en el setpoint durante los horarios laborales.-->
-
+- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
+- La sede presenta un apagado tardío en el sistema de aires el día viernes 13 de diciembre.
  <!--## BC 79 - La Quinta Ibague
 
 - La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización. -->
@@ -31,9 +31,9 @@
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
 
-<!--## BC 115 - Circunvalar Pereira
+## BC 115 - Circunvalar Pereira
 
-- La sede encedió el sistema de aire acondicionado el día 11 de noviembre que representa un día festivo.-->
+- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 
 <!-- - La sede mejoró su patrón de consumo.-->
 
@@ -50,9 +50,9 @@
 
 - Presentó perdida de comunicación el 12 de noviembre.
 
-## BC 221 - Soacha
+<!--## BC 221 - Soacha
 
-- Se evidencia una diferencia del consumo promedio diario de 38.37 kWh/dia, lo que representa un 43 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 38.37 kWh/dia, lo que representa un 43 % de aumento respecto a la línea base.-->
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
@@ -75,17 +75,19 @@
 
 - Presentó perdida de comunicación el 13 de noviembre.-->
 
-## BC 384 - Anapoima 
+<!--## BC 384 - Anapoima 
 
-- La sede normalizó su patrón de consumo.
+- La sede normalizó su patrón de consumo.-->
 
 ## BC 385 - Villeta
 
-- La sede corrigío en consumo atípico ocurrio el fin de semana pasado.
+- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales y en horarios nocturnos, aumentando su consumo durante la semana.
+
+-La sede presentó un conusmo nocturno elevado la noche del 9 de diciembre.
 
 ## BC 388 - CC Hayuelos
 
-- La sede tiene una oportunidad de mejora con los horarios de apagado del sistema de aires acondicionados, se aprecia que la hora de apagado regular de la sede es a las 11 de la noche.
+- La sede presentó mejoría en los horaros nocturnos y tiempos de apagado.
 
 <!--## BC 415 - El Retiro
 
@@ -93,8 +95,7 @@
 
 ## BC 461 - La Carolina Unicentro
 
-- La sede presentó un consumo nocturno elevado la noche del 2 de diciembre, dejando el sistema de aire encendido.
-- Ésta situación lleva presentándose de manera repetida durante varias semanas atrás.
+- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 
 <!--## BC 478 - Mix Vía 40
 
@@ -108,9 +109,9 @@
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-<!--## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
-- Se arregló la medida de aires acondicionados. -->
+- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -119,7 +120,7 @@
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 
-<!-- ## BC 516 - Santa Marta
+<!--## BC 516 - Santa Marta
 
 - Se evidencia una diferencia del consumo promedio diario de 57.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base. -->
 
@@ -153,7 +154,9 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-<!-- ## BC 687 - Planeta Rica
+## BC 687 - Planeta Rica
+
+- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
