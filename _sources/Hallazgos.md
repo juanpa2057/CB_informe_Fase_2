@@ -31,13 +31,13 @@
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
 
-## BC 115 - Circunvalar Pereira
+<!--## BC 115 - Circunvalar Pereira
 
 <!-- - La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.-->
 
 <!-- - La sede mejoró su patrón de consumo.-->
 
-- La sede encendió el equipo de aire acondicionado el dia 6 de enero, que representa un día festivo.
+<!--- La sede encendió el equipo de aire acondicionado el dia 6 de enero, que representa un día festivo.
 
 - Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.
 
@@ -50,17 +50,17 @@
 
 - Presentó perdida de comunicación el 12 de noviembre.
 
-## BC 221 - Soacha
+<!--## BC 221 - Soacha
 
-- La sede encendió el sistema de aires a carga parcial el día lunes 6 de enero que representa un día festivo.
+- La sede encendió el sistema de aires a carga parcial el día lunes 6 de enero que representa un día festivo. -->
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
 <!--- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
-<!--## BC 265 Valle de Lili
+## BC 265 Valle de Lili
 
-- Se evidencia una diferencia del consumo promedio diario de 63.97 kWh/dia, lo que representa un 65 % de aumento respecto a la línea base.-->
+- Se evidencia una diferencia del consumo promedio diario de 26.47 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base.
 
 
 <!--## BC 332 - Zipaquira
@@ -79,7 +79,7 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-## BC 385 - Villeta
+<!--## BC 385 - Villeta
 
 - La sede encendió el sistema de aires el día lunes 6 de enero que representa un día festivo.
 
@@ -165,9 +165,9 @@
 
 - La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento. -->
 
-<!--## BC 733 - La Unión Valle
+## BC 733 - La Unión Valle
 
-- La sede presentua un consumo nocturno la noche del 31 de octubre. -->
+- La sede presenta un consumo nocturno la noche del 15 de enero.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 <!--## BC 772 - Caicedonia 
@@ -180,7 +180,7 @@
 
 - La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento. -->
 
- ## BC 777 - Parque Washington 
+<!-- ## BC 777 - Parque Washington 
 
 - La sede encendió el sistema de aires el día lunes 6 de enero que representa un día festivo.
 
@@ -196,9 +196,9 @@
 
 - la sede presentó consumos nocturnos elevados en comparación a la línea base por causa del sistema de aires acondicionados desde el 8 al 12 de octubre.-->
 
-## BC 802 - Puerto Lopez 
+<!--## BC 802 - Puerto Lopez 
 
-- La sede encendió el sistema de aires durante el fin de semana.
+- La sede encendió el sistema de aires durante el fin de semana. -->
 
 <!--## BC 832 - San Francisco de Paula
 
@@ -206,9 +206,9 @@
 
 ## BC 892 - La Vega
 
-- La sede encendió el sistema de aires el día lunes 6 de enero que representa un día festivo.
+- La sede tuvo una demanda en el sistema de aires muy alta el día 17 de enero, duplicando la demanda nominal.
 
-- La sede encendió el sistema de aires el día lunes 12 de enero que representa un día domingo.
+- La sede tuvo la carga de aires encendida a baja carga durante el fin de semana.
 
 <!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
 
