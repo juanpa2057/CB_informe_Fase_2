@@ -8,13 +8,17 @@
 
 - Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 6 al 13 de enero de 2025.
 
-<!--## BC 73 - Pereira
+## BC 73 - Pereira
 
-- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
+- La sede presenta conusmos nocturnos elevados durante la semana, estos consumos NO fueron por causados por el sistema de aires, se recomienda validar la razón.
+
+<!--- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 - La sede presenta un apagado tardío en el sistema de aires el día viernes 13 de diciembre.-->
- <!--## BC 79 - La Quinta Ibague
 
-- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización. -->
+## BC 79 - La Quinta Ibague
+
+- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización.
+
 
  ## BC 81 - Avenida Kennedy
 
@@ -58,14 +62,14 @@
 
 <!--- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
-## BC 265 Valle de Lili
+<!--## BC 265 Valle de Lili
 
-- Se evidencia una diferencia del consumo promedio diario de 26.47 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 26.47 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base. -->
 
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sede registró un consumo atípico el día sábado 9 de noviembre, verificar si se realizaron labores de mantenimiento.-->
+- La sede registró tuvo un apagado tardío la noche del 21 de enero, validar si se realizaron labores de mantenimiento.
 
 <!-- ## BC 334 - El Peñol
 
@@ -167,7 +171,9 @@
 
 ## BC 733 - La Unión Valle
 
-- La sede presenta un consumo nocturno la noche del 15 de enero.
+- La sede presenta un consumo nocturno la noche del 22 de enero.
+
+- Es la segunda vez que ocurre este consumo nocturno elevado la noche de un miércoles.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 <!--## BC 772 - Caicedonia 
@@ -206,14 +212,13 @@
 
 ## BC 892 - La Vega
 
-- La sede tuvo una demanda en el sistema de aires muy alta el día 17 de enero, duplicando la demanda nominal.
-
-- La sede tuvo la carga de aires encendida a baja carga durante el fin de semana.
+- Se evidencia una diferencia del consumo promedio diario de 8.39 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.
 
 <!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
 
 
-<!-- ## BC - Metropolitan
 
-- La sede encedió el sistema de aire acondicionado a carga parcial el día 14 de octubre que representa un día festivo. -->
+## BC - Metropolitan
+
+- Se presenta la caída del medidor de la terraza. se está gestionando el arreglo de esta medida.
 
