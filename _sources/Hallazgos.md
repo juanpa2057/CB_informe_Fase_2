@@ -12,12 +12,18 @@
 
 - La sede presenta conusmos nocturnos elevados durante la semana, estos consumos NO fueron por causados por el sistema de aires, se recomienda validar la razón.
 
+- La sede presentó problemas de automatización durante el fin de semana, presentando consumos elevados en horarios no hábiles.
+
 <!--- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 - La sede presenta un apagado tardío en el sistema de aires el día viernes 13 de diciembre.-->
 
 ## BC 79 - La Quinta Ibague
 
-- La sede presenta encendido de aires acondicionados durante el fin de semana, validar si se presentó un problema con la automatización.
+- La sede solucionó el problema con el encendido durante el fin de semana.
+
+- La sede presentó un cambio en el setpoint del funcionamiento de los aires, afectando tanto los consumos diurnos como los nocturnos, históricamente la sede apaga por completo el sistema de aires, ahora se queda encendido a una carga baja.
+
+
 
 
  ## BC 81 - Avenida Kennedy
@@ -52,24 +58,30 @@
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 ## BC 138 - Mosquera
 
-- Presentó perdida de comunicación el 12 de noviembre.
+- Se reestableció la comunicación de la sede el día 31 de enero.
 
-<!--## BC 221 - Soacha
+## BC 221 - Soacha
 
-- La sede encendió el sistema de aires a carga parcial el día lunes 6 de enero que representa un día festivo. -->
+<!--- La sede encendió el sistema de aires a carga parcial el día lunes 6 de enero que representa un día festivo. -->
+
+- La sede presenta irregularidades en su patrón de consumo, se resgistró consumos elevados a comparación con la línea base y horas de apagado tardías.
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
 <!--- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
-<!--## BC 265 Valle de Lili
+## BC 265 Valle de Lili
 
-- Se evidencia una diferencia del consumo promedio diario de 26.47 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base. -->
+- Se evidencia una diferencia del consumo promedio diario de 84.14 kWh/dia, lo que representa un 85 % de aumento respecto a la línea base.
+
+- La sede tuvo problemas con la automatización durante el fin de semana
+
+- La sede tuvo cambios en el setpoint en horarios laborales, duplicando su consumo.
 
 
 ## BC 332 - Zipaquira
 
-- La sede registró tuvo un apagado tardío la noche del 21 de enero, validar si se realizaron labores de mantenimiento.
+- Se evidencia una diferencia del consumo promedio diario de 8.27 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base.
 
 <!-- ## BC 334 - El Peñol
 
@@ -83,13 +95,13 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-<!--## BC 385 - Villeta
+## BC 385 - Villeta
 
-- La sede encendió el sistema de aires el día lunes 6 de enero que representa un día festivo.
+- Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
 
-<!--## BC 388 - CC Hayuelos
+## BC 388 - CC Hayuelos
 
-- La sede presentó mejoría en los horaros nocturnos y tiempos de apagado. -->
+- La sede dejó el sistema de aires encendido desde el 29 de enero al 31 de febrero, validar la razón o si se presentaron problemas con la automatización.
 
 <!--## BC 415 - El Retiro
 
@@ -127,9 +139,9 @@
 - Se evidencia una diferencia del consumo promedio diario de 57.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base. -->
 
 
-<!--## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
 
-- La sede encendió el sistema de aires la noche del 4 de diciembre, validar si se realizaron labores de mantenimiento. -->
+- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.
 
 ## BC 554 - Mall Plaza Buena Vista
 
@@ -145,9 +157,9 @@
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
-<!--## BC 673 - Calle 80
+## BC 673 - Calle 80
 
-- La sede presentó un consumo nocturno elevado la noche del 4 de diciembre, se aprecia una hora de apagado tardía.-->
+- La sede presentó consumos elevados durante el fin de semana, dejando el sistema de aires encendido a carga parcial, validar la razón.
 
 <!-- ## BC 681 - Cerete
 
@@ -182,9 +194,9 @@
 
 <!--- La sede presenta un consumo atípico la noche del 10 de octubre.-->
 
-<!--## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento. -->
+- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.
 
 <!-- ## BC 777 - Parque Washington 
 
@@ -220,5 +232,9 @@
 
 ## BC - Metropolitan
 
-- Se presenta la caída del medidor de la terraza. se está gestionando el arreglo de esta medida.
+- El problema con la medida del la terraza en esta sucursal ha sido solucionado.
 
+
+## BC - Jardin Plaza
+
+-  evidencia una diferencia del consumo promedio diario de 65.06 kWh/dia, lo que representa un 25 % de aumento respecto a la línea base.
