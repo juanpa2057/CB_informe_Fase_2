@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 6 al 13 de enero de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 3 al 9 de febrero de 2025.
 
 ## BC 73 - Pereira
 
@@ -58,7 +58,7 @@
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 ## BC 138 - Mosquera
 
-- Se reestableció la comunicación de la sede el día 31 de enero.
+- Se siguen prsentando problemas con la comunicación de esta sucursal, se está trabajando en esta situación.
 
 ## BC 221 - Soacha
 
@@ -72,17 +72,18 @@
 
 ## BC 265 Valle de Lili
 
-- Se evidencia una diferencia del consumo promedio diario de 84.14 kWh/dia, lo que representa un 85 % de aumento respecto a la línea base.
+<!--- Se evidencia una diferencia del consumo promedio diario de 84.14 kWh/dia, lo que representa un 85 % de aumento respecto a la línea base.
 
 - La sede tuvo problemas con la automatización durante el fin de semana
 
-- La sede tuvo cambios en el setpoint en horarios laborales, duplicando su consumo.
+- La sede tuvo cambios en el setpoint en horarios laborales, duplicando su consumo. -->
+
+- La sede normalizó su consumo promedio con el establecido en la línea base, a comaración con la anterior semana que se duplicó.
 
 
 ## BC 332 - Zipaquira
 
-- Se evidencia una diferencia del consumo promedio diario de 8.27 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base.
-
+- La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
 <!-- ## BC 334 - El Peñol
 
 - Se presentan problemas con las medidas, se está validando esta información -->
@@ -95,21 +96,23 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-## BC 385 - Villeta
+<!--## BC 385 - Villeta
 
-- Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
 ## BC 388 - CC Hayuelos
 
-- La sede dejó el sistema de aires encendido desde el 29 de enero al 31 de febrero, validar la razón o si se presentaron problemas con la automatización.
+- La sede presenta aumento en su consumo en horarios laborales, y reducción en sus consumos nocturnos.
 
 <!--## BC 415 - El Retiro
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-<!--## BC 461 - La Carolina Unicentro
+## BC 461 - La Carolina Unicentro
 
-- La sede presenta un consumo nocturno elevado la noche del 17 de diciembre.-->
+- La sede presenta un consumo nocturno elevado la noche del 3 de febrero.
+
+- La sede presenta consumos elevados durante los horarios laborales.
 
 <!--## BC 478 - Mix Vía 40
 
@@ -123,9 +126,9 @@
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-<!--## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
-- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.-->
+<!--- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.-->
 
 <!--- La sede presentó consumos elevados los días que representan fin de semana. -->
 
@@ -133,19 +136,27 @@
 
 <!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
+- La sede presenta un consumo nocturno elevado la noche del 3 de febrero.
 
-<!--## BC 516 - Santa Marta
 
-- Se evidencia una diferencia del consumo promedio diario de 57.89 kWh/dia, lo que representa un 18 % de disminución respecto a la línea base. -->
+## BC 516 - Santa Marta
+
+- Se evidencia una diferencia del consumo promedio diario de 102.87 kWh/dia, lo que representa un 33 % de aumento respecto a la línea base.
 
 
 ## BC 517 - El Rodadero 
 
 - La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.
 
+- La sede presenta un consumo nocturno elevado la noche del 5 de febrero.
+
+- Se evidencia una diferencia del consumo promedio diario de 33.54 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.
+
 ## BC 554 - Mall Plaza Buena Vista
 
-- La sede presenta consumos nocturnos elevados las noches de los viernes y consumos elevados durante el fin de semana en horarios no laborales.
+- La sede normalizo su patrón de consumo, recordemos que la sede venía con el problema de que la automatización no apagaba el sistema de aires durante los fines de semana.
+
+- Se evidencia una diferencia del consumo promedio diario de 124.09 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.
 
 
 <!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
@@ -157,9 +168,9 @@
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
-## BC 673 - Calle 80
+<!--## BC 673 - Calle 80
 
-- La sede presentó consumos elevados durante el fin de semana, dejando el sistema de aires encendido a carga parcial, validar la razón.
+- La sede presentó consumos elevados durante el fin de semana, dejando el sistema de aires encendido a carga parcial, validar la razón.-->
 
 <!-- ## BC 681 - Cerete
 
@@ -175,17 +186,24 @@
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
-<!--## BC 689 - Metropolis 
+## BC 689 - Metropolis 
 
-- Se evidencia una diferencia del consumo promedio diario de 28.97 kWh/dia, lo que representa un 30 % de disminución respecto a la línea base.
+<!--- Se evidencia una diferencia del consumo promedio diario de 28.97 kWh/dia, lo que representa un 30 % de disminución respecto a la línea base.
 
 - La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento. -->
 
-## BC 733 - La Unión Valle
+- La sede aumento sus consumos en horarios laborales.
+
+- La sede presentó consumos elevados durante el fin de semana, validar la razón.
+
+- La sede mejoró en sus horarios de encendido y apagado.
+
+
+<!--## BC 733 - La Unión Valle
 
 - La sede presenta un consumo nocturno la noche del 22 de enero.
 
-- Es la segunda vez que ocurre este consumo nocturno elevado la noche de un miércoles.
+- Es la segunda vez que ocurre este consumo nocturno elevado la noche de un miércoles.-->
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 <!--## BC 772 - Caicedonia 
@@ -194,9 +212,9 @@
 
 <!--- La sede presenta un consumo atípico la noche del 10 de octubre.-->
 
-## BC 775 - Bulevar 54
+<!--## BC 775 - Bulevar 54
 
-- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.
+- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.-->
 
 <!-- ## BC 777 - Parque Washington 
 
@@ -222,9 +240,9 @@
 
 - La sede presesntó variaciones en el patrón de consumo, causadas por otras cargas diferentes al sistema de aires. -->
 
-## BC 892 - La Vega
+<!--## BC 892 - La Vega
 
-- Se evidencia una diferencia del consumo promedio diario de 8.39 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 8.39 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.-->
 
 <!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
 
@@ -232,9 +250,9 @@
 
 ## BC - Metropolitan
 
-- El problema con la medida del la terraza en esta sucursal ha sido solucionado.
+- El edificio presenta un patrón de consumo atípico a causa del sistema de aire en la terraza.
 
 
-## BC - Jardin Plaza
+<!--## BC - Jardin Plaza
 
--  evidencia una diferencia del consumo promedio diario de 65.06 kWh/dia, lo que representa un 25 % de aumento respecto a la línea base.
+-  evidencia una diferencia del consumo promedio diario de 65.06 kWh/dia, lo que representa un 25 % de aumento respecto a la línea base.-->
