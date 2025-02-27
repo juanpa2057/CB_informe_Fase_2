@@ -1,0 +1,130 @@
+Traceback (most recent call last):
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\jupyter_cache\executors\utils.py", line 58, in single_nb_execution
+    executenb(
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 1204, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\util.py", line 84, in wrapped
+    return just_run(coro(*args, **kwargs))
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\util.py", line 62, in just_run
+    return loop.run_until_complete(coro)
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 663, in async_execute
+    await self.async_execute_cell(
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 965, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 862, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+df_front_cargas = pd.concat([cargas, cargas_bl])
+
+front_nighttime_cons = front[front["hour"].isin(cfg.NIGHT_HOURS)].copy()
+
+cargas_nighttime_cons = df_front_cargas[df_front_cargas["hour"].isin(cfg.NIGHT_HOURS)].copy()
+cargas_nighttime_cons = pro.datetime_attributes(cargas_nighttime_cons)
+
+cargas_nighttime_cons_bl = cargas_nighttime_cons[cargas_nighttime_cons["Periodo"] == "Baseline"].copy()
+cargas_nighttime_cons_st = cargas_nighttime_cons[cargas_nighttime_cons["Periodo"] == "Estudio"].copy()
+
+cargas_nighttime_cons_bl_daily = cargas_nighttime_cons_bl.groupby(by=["variable"]).resample('1D').sum().reset_index().set_index('datetime')
+cargas_nighttime_cons_bl_daily = pro.datetime_attributes(cargas_nighttime_cons_bl_daily)
+cargas_nighttime_cons_bl_daily['Periodo'] = 'Baseline'
+
+cargas_nighttime_cons_st_daily = cargas_nighttime_cons_st.groupby(by=["variable"]).resample('1D').sum().reset_index().set_index('datetime')
+cargas_nighttime_cons_st_daily = pro.datetime_attributes(cargas_nighttime_cons_st_daily)
+cargas_nighttime_cons_st_daily['Periodo'] = 'Estudio'
+
+
+# Crear una columna 'month_day' combinando 'month' y 'day'
+cargas_nighttime_cons_st_daily['month_day'] = cargas_nighttime_cons_st_daily['month'].astype(str) + '-' + cargas_nighttime_cons_st_daily['day'].astype(str)
+# Ordenar los datos por la columna 'datetime'
+cargas_nighttime_cons_st_daily = cargas_nighttime_cons_st_daily.sort_values('datetime')
+# Agregamos los valores de las dos variables por month_day
+agg_cargas_nighttime_cons_st_daily = cargas_nighttime_cons_st_daily.groupby(['month_day', 'variable'])['value'].sum().reset_index()
+
+
+if (cargas_nighttime_cons_st_daily.shape[0] > 0):
+    fig = px.bar(
+        cargas_nighttime_cons_st_daily.reset_index(),
+        x="month_day",
+        y="value",
+        barmode='group',
+        color_discrete_sequence=repcfg.FULL_PALETTE,
+        labels={'month_day':'Mes - Día', 'value':'Consumo [kWh]'},
+        title=f"{DEVICE_NAME}: Consumo nocturno de energía activa AA/Ilu [kWh/día]",
+    )
+
+    fig.add_hline(y=cargas_nighttime_cons_bl_daily['value'].mean(), line_dash="dash", line_color=repcfg.FULL_PALETTE[1], annotation_text=f"Línea base: {cargas_nighttime_cons_bl_daily['value'].mean():.2f} kWh/día", annotation_position="top left")
+    fig.add_hline(y=cargas_nighttime_cons_st_daily['value'].mean(), line_dash="dash", line_color=repcfg.FULL_PALETTE[1], annotation_text=f"Consumo semana : {cargas_nighttime_cons_st_daily['value'].mean():.2f} kWh/dia", annotation_position="top right")
+
+    # Ajustamos la escala y el formato del eje x
+    fig.update_xaxes(
+    type='category',  # Usar una escala categórica en lugar de fecha
+    tickvals=list(agg_cargas_nighttime_cons_st_daily['month_day']),  # Valores en el eje x
+    ticktext=list(agg_cargas_nighttime_cons_st_daily['month_day']),  # Etiquetas en el eje x
+    title_text='Mes - Día',  # Título del eje x
+)
+
+
+    fig.update_layout(
+        font_family=repcfg.CELSIA_FONT,
+        font_size=repcfg.PLOTLY_TITLE_FONT_SIZE,
+        font_color=repcfg.FULL_PALETTE[1],
+        title_x=repcfg.PLOTLY_TITLE_X,
+        width=repcfg.JBOOK_PLOTLY_WIDTH,
+        height=repcfg.JBOOK_PLOTLY_HEIGHT
+    )
+
+    # fig.update_traces(marker_color=grp.hex_to_rgb(repcfg.FULL_PALETTE[0]))
+    fig.show()
+
+------------------
+
+[1;31m---------------------------------------------------------------------------[0m
+[1;31mValueError[0m                                Traceback (most recent call last)
+Cell [1;32mIn[12], line 15[0m
+[0;32m     12[0m cargas_nighttime_cons_bl_daily [38;5;241m=[39m pro[38;5;241m.[39mdatetime_attributes(cargas_nighttime_cons_bl_daily)
+[0;32m     13[0m cargas_nighttime_cons_bl_daily[[38;5;124m'[39m[38;5;124mPeriodo[39m[38;5;124m'[39m] [38;5;241m=[39m [38;5;124m'[39m[38;5;124mBaseline[39m[38;5;124m'[39m
+[1;32m---> 15[0m cargas_nighttime_cons_st_daily [38;5;241m=[39m [43mcargas_nighttime_cons_st[49m[38;5;241;43m.[39;49m[43mgroupby[49m[43m([49m[43mby[49m[38;5;241;43m=[39;49m[43m[[49m[38;5;124;43m"[39;49m[38;5;124;43mvariable[39;49m[38;5;124;43m"[39;49m[43m][49m[43m)[49m[38;5;241;43m.[39;49m[43mresample[49m[43m([49m[38;5;124;43m'[39;49m[38;5;124;43m1D[39;49m[38;5;124;43m'[39;49m[43m)[49m[38;5;241;43m.[39;49m[43msum[49m[43m([49m[43m)[49m[38;5;241;43m.[39;49m[43mreset_index[49m[43m([49m[43m)[49m[38;5;241m.[39mset_index([38;5;124m'[39m[38;5;124mdatetime[39m[38;5;124m'[39m)
+[0;32m     16[0m cargas_nighttime_cons_st_daily [38;5;241m=[39m pro[38;5;241m.[39mdatetime_attributes(cargas_nighttime_cons_st_daily)
+[0;32m     17[0m cargas_nighttime_cons_st_daily[[38;5;124m'[39m[38;5;124mPeriodo[39m[38;5;124m'[39m] [38;5;241m=[39m [38;5;124m'[39m[38;5;124mEstudio[39m[38;5;124m'[39m
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\pandas\util\_decorators.py:331[0m, in [0;36mdeprecate_nonkeyword_arguments.<locals>.decorate.<locals>.wrapper[1;34m(*args, **kwargs)[0m
+[0;32m    325[0m [38;5;28;01mif[39;00m [38;5;28mlen[39m(args) [38;5;241m>[39m num_allow_args:
+[0;32m    326[0m     warnings[38;5;241m.[39mwarn(
+[0;32m    327[0m         msg[38;5;241m.[39mformat(arguments[38;5;241m=[39m_format_argument_list(allow_args)),
+[0;32m    328[0m         [38;5;167;01mFutureWarning[39;00m,
+[0;32m    329[0m         stacklevel[38;5;241m=[39mfind_stack_level(),
+[0;32m    330[0m     )
+[1;32m--> 331[0m [38;5;28;01mreturn[39;00m func([38;5;241m*[39margs, [38;5;241m*[39m[38;5;241m*[39mkwargs)
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\pandas\core\frame.py:6361[0m, in [0;36mDataFrame.reset_index[1;34m(self, level, drop, inplace, col_level, col_fill, allow_duplicates, names)[0m
+[0;32m   6355[0m         [38;5;28;01mif[39;00m lab [38;5;129;01mis[39;00m [38;5;129;01mnot[39;00m [38;5;28;01mNone[39;00m:
+[0;32m   6356[0m             [38;5;66;03m# if we have the codes, extract the values with a mask[39;00m
+[0;32m   6357[0m             level_values [38;5;241m=[39m algorithms[38;5;241m.[39mtake(
+[0;32m   6358[0m                 level_values, lab, allow_fill[38;5;241m=[39m[38;5;28;01mTrue[39;00m, fill_value[38;5;241m=[39mlev[38;5;241m.[39m_na_value
+[0;32m   6359[0m             )
+[1;32m-> 6361[0m         [43mnew_obj[49m[38;5;241;43m.[39;49m[43minsert[49m[43m([49m
+[0;32m   6362[0m [43m            [49m[38;5;241;43m0[39;49m[43m,[49m
+[0;32m   6363[0m [43m            [49m[43mname[49m[43m,[49m
+[0;32m   6364[0m [43m            [49m[43mlevel_values[49m[43m,[49m
+[0;32m   6365[0m [43m            [49m[43mallow_duplicates[49m[38;5;241;43m=[39;49m[43mallow_duplicates[49m[43m,[49m
+[0;32m   6366[0m [43m        [49m[43m)[49m
+[0;32m   6368[0m new_obj[38;5;241m.[39mindex [38;5;241m=[39m new_index
+[0;32m   6369[0m [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m inplace:
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\pandas\core\frame.py:4817[0m, in [0;36mDataFrame.insert[1;34m(self, loc, column, value, allow_duplicates)[0m
+[0;32m   4811[0m     [38;5;28;01mraise[39;00m [38;5;167;01mValueError[39;00m(
+[0;32m   4812[0m         [38;5;124m"[39m[38;5;124mCannot specify [39m[38;5;124m'[39m[38;5;124mallow_duplicates=True[39m[38;5;124m'[39m[38;5;124m when [39m[38;5;124m"[39m
+[0;32m   4813[0m         [38;5;124m"[39m[38;5;124m'[39m[38;5;124mself.flags.allows_duplicate_labels[39m[38;5;124m'[39m[38;5;124m is False.[39m[38;5;124m"[39m
+[0;32m   4814[0m     )
+[0;32m   4815[0m [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m allow_duplicates [38;5;129;01mand[39;00m column [38;5;129;01min[39;00m [38;5;28mself[39m[38;5;241m.[39mcolumns:
+[0;32m   4816[0m     [38;5;66;03m# Should this be a different kind of error??[39;00m
+[1;32m-> 4817[0m     [38;5;28;01mraise[39;00m [38;5;167;01mValueError[39;00m([38;5;124mf[39m[38;5;124m"[39m[38;5;124mcannot insert [39m[38;5;132;01m{[39;00mcolumn[38;5;132;01m}[39;00m[38;5;124m, already exists[39m[38;5;124m"[39m)
+[0;32m   4818[0m [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m [38;5;28misinstance[39m(loc, [38;5;28mint[39m):
+[0;32m   4819[0m     [38;5;28;01mraise[39;00m [38;5;167;01mTypeError[39;00m([38;5;124m"[39m[38;5;124mloc must be int[39m[38;5;124m"[39m)
+
+[1;31mValueError[0m: cannot insert variable, already exists
+ValueError: cannot insert variable, already exists
+

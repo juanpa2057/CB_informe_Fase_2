@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 10 al 16 de febrero de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 17 al 23 de febrero de 2025.
 
 ## BC 73 - Pereira
 
@@ -33,9 +33,9 @@
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
 
-<!-- ## BC 111 - Corozal
+## BC 111 - Corozal
 
-- Se presenta desconexión en los de aire, se está trabjando para reestablecer la comunicación. -->
+- Se presenta desconexión en los de aire, se está trabjando para reestablecer la comunicación. 
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
@@ -60,11 +60,11 @@
 
 - Se siguen presentando problemas con la comunicación de esta sucursal, se está trabajando en esta situación.
 
-## BC 221 - Soacha
+<!--## BC 221 - Soacha
 
 <!--- La sede encendió el sistema de aires a carga parcial el día lunes 6 de enero que representa un día festivo. -->
 
-- La sede presenta irregularidades en su patrón de consumo, se resgistró consumos elevados a comparación con la línea base y horas de apagado tardías.
+<!--- La sede presenta irregularidades en su patrón de consumo, se resgistró consumos elevados a comparación con la línea base y horas de apagado tardías.-->
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
@@ -81,7 +81,7 @@
 <!--- La sede normalizó su consumo promedio con el establecido en la línea base, a comaración con la anterior semana que se duplicó.-->
 
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
 - La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
 <!-- ## BC 334 - El Peñol
@@ -100,9 +100,9 @@
 
 - Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
-<!--## BC 388 - CC Hayuelos
+## BC 388 - CC Hayuelos
 
-- La sede presenta aumento en su consumo en horarios laborales, y reducción en sus consumos nocturnos. -->
+- La sede presenta problemas conla automatización la noche del 21 de febrero, dejando encendido por completo el sistema de aires.
 
 <!--## BC 415 - El Retiro
 
@@ -116,7 +116,7 @@
 
 ## BC 478 - Mix Vía 40
 
-- La sede presentó un patrón de consumo atípico durante la semana, el sistema se quedo encendido durante las noches.
+- La sede normalizó su patrón de consumo y redujo los picos de arranque del sistema.
 
 <!--- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.-->
 
@@ -126,7 +126,7 @@
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-<!--## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
 <!--- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.-->
 
@@ -134,19 +134,20 @@
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
-<!-- - La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
+- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.
 
 <!--- La sede presenta un consumo nocturno elevado la noche del 3 de febrero.-->
 
 
-## BC 516 - Santa Marta
+<!--## BC 516 - Santa Marta
 
-- Se evidencia una diferencia del consumo promedio diario de 93.85 kWh/dia, lo que representa un 29 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 93.85 kWh/dia, lo que representa un 29 % de aumento respecto a la línea base.-->
 
 
-<!--## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
 
-- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.
+La sede presenta un patrón de consumo atípico durante la semana, validar la razón.
+<!-- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.
 
 - La sede presenta un consumo nocturno elevado la noche del 5 de febrero.
 
@@ -158,20 +159,24 @@
 
 - Se evidencia una diferencia del consumo promedio diario de 124.09 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.-->
 
-- Durante la anterior semana a la de estudio el sistema había arreglado su patrón de consumo, esta semana se volvió a presentar el problema con la automatización, Se recomienda validar las acciones tomadas durante la semana en que se arregló la medida y seguirla replicando.
+<!-- - Durante la anterior semana a la de estudio el sistema había arreglado su patrón de consumo, esta semana se volvió a presentar el problema con la automatización, Se recomienda validar las acciones tomadas durante la semana en que se arregló la medida y seguirla replicando.
 
 <!-- - La sede presenta un patrón de consumo irregular los días 5 y 6 de julio-->
 
 <!-- - La sede presenta un conumo elevado el día 7 de julio que due domingo.-->
+
+- La sede presenta un patrón de consumo irregular durante los días que son fin de semana, el sistema de aires queda completamente encedido durante este periode de tiempo, se recomienda dar solución rápida.
+
 <!--## BC 583 - Riosucio
 
 - La sede presentó consumos elevados la madrugada del 24 de octubre a causa del aire acondicionado.-->
 
+
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
-## BC 673 - Calle 80
+<!--## BC 673 - Calle 80
 
-- La sede presento un consumo conturno elevado durante la noche del 12 de febrero
+- La sede presento un consumo conturno elevado durante la noche del 12 de febrero-->
 
 <!-- ## BC 681 - Cerete
 
@@ -229,7 +234,7 @@
 
 <!--- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
-## BC 781 - Prado Plaza
+<!--## BC 781 - Prado Plaza
 
 - La sede presentó consumos nocturnos elevados en comparación a la línea base por causa del sistema de aires acondicionados desde el 12 al 15 de febrero.
 
@@ -241,13 +246,13 @@
 
 - La sede presesntó variaciones en el patrón de consumo, causadas por otras cargas diferentes al sistema de aires. -->
 
-## BC 892 - La Vega
+<!--## BC 892 - La Vega
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 8.39 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.-->
 
 <!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
 
-- La sede presentó un consumo nocturno elevado durante la noche del 13 de febrero.
+<!--- La sede presentó un consumo nocturno elevado durante la noche del 13 de febrero.
 
 
 <!--## BC - Metropolitan
