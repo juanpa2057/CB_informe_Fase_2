@@ -100,23 +100,25 @@
 
 - Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
-## BC 388 - CC Hayuelos
+<!--## BC 388 - CC Hayuelos
 
-- La sede presenta problemas conla automatización la noche del 21 de febrero, dejando encendido por completo el sistema de aires.
+- La sede presenta problemas conla automatización la noche del 21 de febrero, dejando encendido por completo el sistema de aires.-->
 
 <!--## BC 415 - El Retiro
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-<!--## BC 461 - La Carolina Unicentro
+## BC 461 - La Carolina Unicentro
 
-- La sede presenta un consumo nocturno elevado la noche del 3 de febrero.
+- La sede deja encendido el sistema de aires durante el fin de semana completo, validar la razón.
+
+<!-- La sede presenta un consumo nocturno elevado la noche del 3 de febrero.
 
 - La sede presenta consumos elevados durante los horarios laborales.-->
 
-## BC 478 - Mix Vía 40
+<!--## BC 478 - Mix Vía 40
 
-- La sede normalizó su patrón de consumo y redujo los picos de arranque del sistema.
+- La sede normalizó su patrón de consumo y redujo los picos de arranque del sistema.--<>
 
 <!--- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.-->
 
@@ -126,7 +128,7 @@
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-## BC 513 - El Dificil 
+<!--## BC 513 - El Dificil 
 
 <!--- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.-->
 
@@ -134,14 +136,14 @@
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
-- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.
+<!--- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
 <!--- La sede presenta un consumo nocturno elevado la noche del 3 de febrero.-->
 
 
-<!--## BC 516 - Santa Marta
+## BC 516 - Santa Marta
 
-- Se evidencia una diferencia del consumo promedio diario de 93.85 kWh/dia, lo que representa un 29 % de aumento respecto a la línea base.-->
+- La sede presenta una oprtunidad de mejora en los horarios de apagado del sistema, históricamente la sede ha tenido un apagado normal. 
 
 
 ## BC 517 - El Rodadero 
@@ -192,8 +194,9 @@ La sede presenta un patrón de consumo atípico durante la semana, validar la ra
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
-<!--## BC 689 - Metropolis 
+## BC 689 - Metropolis 
 
+- La sede presentó consumos elevados durante el fin de semana, históricamente esta sede no ha presentado esta novedad.
 <!--- Se evidencia una diferencia del consumo promedio diario de 28.97 kWh/dia, lo que representa un 30 % de disminución respecto a la línea base.
 
 - La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento. -->
@@ -218,9 +221,10 @@ La sede presenta un patrón de consumo atípico durante la semana, validar la ra
 
 <!--- La sede presenta un consumo atípico la noche del 10 de octubre.-->
 
-<!--## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.-->
+- La sede presentó desconexión de la medida, esta se reestableció el 26 de febrero.
+<!--- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.-->
 
 <!-- ## BC 777 - Parque Washington 
 
