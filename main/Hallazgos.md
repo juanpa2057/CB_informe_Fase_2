@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 17 al 24 de marzo de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 24 al 30 de marzo de 2025.
 
 ## BC 73 - Pereira
 
@@ -83,7 +83,7 @@
 <!--- La sede normalizó su consumo promedio con el establecido en la línea base, a comaración con la anterior semana que se duplicó.-->
 
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
 - La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
 <!-- ## BC 334 - El Peñol
@@ -117,7 +117,7 @@
 - La sede registra consumos durante el 24 de marzo que fue festivo.
 
 
-- La sede presenta un consumo nocturno elevado la noche del 17 de marzo.
+<!--- La sede presenta un consumo nocturno elevado la noche del 17 de marzo.
 
 <!--- La sede presenta consumos elevados durante los horarios laborales.-->
 
@@ -147,7 +147,7 @@
 
 ## BC 516 - Santa Marta
 
-- La sede presentó consumos elevados durante el fin de semana, validar la razón. 
+- La sede normalizó sus consumos durante el fin de semana
 
 
 ## BC 517 - El Rodadero 
@@ -155,7 +155,7 @@
 <!--La sede presenta un patrón de consumo atípico durante la semana, validar la razón.
 <!-- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.-->
 
-- La sede presenta un consumo nocturno elevado la noche del 17 de marzo.
+<!--- La sede presenta un consumo nocturno elevado la noche del 17 de marzo.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 33.54 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.-->
 
@@ -182,7 +182,7 @@
 
 ## BC 673 - Calle 80
 
-- La sede presento un consumo conturno elevado durante la noche del 20 de marzo.
+- Durante la semana la sede apagó tarde el sistema de aire acondicionado.
 
 <!-- ## BC 681 - Cerete
 
@@ -228,9 +228,11 @@
 <!--- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.-->
 ## BC 777 - Parque Washington 
 
-- La sede presenta consumos elevandos en los horarios nocturnos de la semana laboral, Esta situación ya se había presentado y ya se había solucionado hace tiempo, validar porque se vuelve a presentar.
+<!--- La sede presenta consumos elevandos en los horarios nocturnos de la semana laboral, Esta situación ya se había presentado y ya se había solucionado hace tiempo, validar porque se vuelve a presentar.-->
 
 - La sede registra consumos durante el 24 de marzo que fue festivo
+
+- La sede registra un consumo elevado la noche del 24 de marzo.
 <!--- Se solucionó la situciaíon que la sede presentaba sobre los encendidos de los equipos durante los fines de semana, sin embargo siguen quedandose encendidos en horarios nocturnos.-->
 
 - Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.
@@ -252,8 +254,6 @@
 
 
 <!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
-
-- La sede presenta consumos durane el fin de semana.
 
 - La sede registra consumos durante el 24 de marzo que fue festivo
 
