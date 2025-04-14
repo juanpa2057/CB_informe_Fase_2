@@ -6,16 +6,20 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 31 de marzo al 6 de abril de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 7 al 13 de abril de 2025.
+
+## BC 43 - Puente Aranda
+
+- Se incluye una de las sedes de la última serie de insttalaciones de la fase dos.
 
 ## BC 73 - Pereira
 
-- La sede ya no presenta consumos durante el fin de semana.
+- La sede presenta consumo durante el día sábado.
 
 <!--- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 - La sede presenta un apagado tardío en el sistema de aires el día viernes 13 de diciembre.-->
 
-## BC 79 - La Quinta Ibague
+<!--## BC 79 - La Quinta Ibague
 
 - La sede ya no presenta consumos durante el fin de semana.
 
@@ -60,19 +64,19 @@
 
 - Se siguen presentando problemas con la comunicación de esta sucursal, se está trabajando en esta situación.
 
-<!--## BC 221 - Soacha
+## BC 221 - Soacha
 
-- La sede registra consumos durante el 24 de marzo que fue festivo.
+<!--- La sede registra consumos durante el 24 de marzo que fue festivo.
 
 <!--- La sede encendió el sistema de aires a carga parcial el día lunes 6 de enero que representa un día festivo. -->
 
-<!--- La sede presenta irregularidades en su patrón de consumo, se resgistró consumos elevados a comparación con la línea base y horas de apagado tardías.-->
+- La sede presenta irregularidades en su patrón de consumo, se resgistró consumos elevados a comparación con la línea base y horas de apagado tardías.
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
 <!--- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
-## BC 265 Valle de Lili
+<!--## BC 265 Valle de Lili
 
 - La sede presentó un cambio en los equipos de aire, cambiando su patrón de consumo.
 
@@ -85,7 +89,7 @@
 <!--- La sede normalizó su consumo promedio con el establecido en la línea base, a comaración con la anterior semana que se duplicó.-->
 
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
 - La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
 
@@ -110,15 +114,15 @@
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
-<!--## BC 388 - CC Hayuelos
+## BC 388 - CC Hayuelos
 
-- La sede presenta problemas conla automatización la noche del 21 de febrero, dejando encendido por completo el sistema de aires.-->
+- La sede presenta problemas conla automatización la noche del 8 de abril, dejando encendido por completo el sistema de aires.
 
 <!--## BC 415 - El Retiro
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-## BC 461 - La Carolina Unicentro
+<!--## BC 461 - La Carolina Unicentro
 
 - La sede registra consumos nocturnos elevados durante el 31 de marzo
 
@@ -127,11 +131,11 @@
 
 <!--- La sede presenta consumos elevados durante los horarios laborales.-->
 
-## BC 478 - Mix Vía 40
+<!--## BC 478 - Mix Vía 40
 
 <!--- La sede mejoró en su consumo en horarios nocturnos y no hábiles.-->
 
-- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.
+<!--- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.
 
 <!--La sede presentó consumos nocturnos elevados durante la semana, comparados con la línea base.-->
 
@@ -149,9 +153,9 @@
 
 <!--- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
-- La sede presenta un consumo nocturno elevado la noche del 1 de abril.
+- La sede presenta un consumo nocturno elevado la noche del 8 de abril.
 
-## BC 516 - Santa Marta
+<!--## BC 516 - Santa Marta
 
 - La aumentó el setpoint durante la semana, elevando su consumo con respecto a la línea base.
 
@@ -186,7 +190,7 @@
 
 <!-- ## BC 619 - Plaza del Bosque Ibague-->
 
-## BC 673 - Calle 80
+<!--## BC 673 - Calle 80
 
 - La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.
 
@@ -206,7 +210,7 @@
 
 ## BC 689 - Metropolis 
 
-- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.
+- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos.
 
 <!--- La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento. -->
 
@@ -228,16 +232,17 @@
 
 <!--- La sede presenta un consumo atípico la noche del 10 de octubre.-->
 
-<!--## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- La sede solo operó tres días durante esta semana. -->
+- La sede, durante la semana operó con consumos elevados con respecto a la linea base.
+<!--- La sede solo operó tres días durante esta semana. -->
 <!--- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.-->
 ## BC 777 - Parque Washington 
 
 <!--- La sede presenta consumos elevandos en los horarios nocturnos de la semana laboral, Esta situación ya se había presentado y ya se había solucionado hace tiempo, validar porque se vuelve a presentar.-->
 
-- La sede registra un consumo elevado la noche del 31 de marzo.
-<!--- Se solucionó la situciaíon que la sede presentaba sobre los encendidos de los equipos durante los fines de semana, sin embargo siguen quedandose encendidos en horarios nocturnos.-->
+<!--- La sede registra un consumo elevado la noche del 31 de marzo.-->
+- Se solucionó la situciaíon que la sede presentaba sobre los encendidos de los equipos durante los fines de semana, sin embargo siguen quedandose encendidos en horarios nocturnos.
 
 <!--- Esta sede presenta de forma recurrente el funcionamiento de equipos de aire acondicionado los días festivos.-->
 
@@ -259,7 +264,7 @@
 
 <!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
 
-- La sede registra un consumo elevado la noche del 2 de abril.
+<!--- La sede registra un consumo elevado la noche del 2 de abril.
 
 
 <!--## BC - Metropolitan
