@@ -6,17 +6,15 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 14 al 20 de abril de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semana del 21 al 27 de abril de 2025.
 
-## BC 43 - Puente Aranda
+<!--## BC 43 - Puente Aranda
 
 - Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
 
-- La sede tiene un consumo bajo en el sistema de refrigeración o de aires comparado con otras sedes.
+- La sede tiene un consumo bajo en el sistema de refrigeración o de aires comparado con otras sedes.-->
 
 ## BC 68 - Ibague
-
-- Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
 
 - La sede tiene un patrón de consumo atípico a comparación de otras sedes, nunca apaga el sistema de aires durante la semana y su consumo es bastante elevado.
 
@@ -44,6 +42,8 @@
 
 - La sede presenta un pico de consumo todos los domingos a media noche, este puede ser causado por la automatización.
 
+- La sede registra consumos nocturnos elevados durante la semana.
+
 
 ## BC 111 - Corozal
 
@@ -53,7 +53,7 @@
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
 
-## BC 115 - Circunvalar Pereira
+<!--## BC 115 - Circunvalar Pereira
 
 - La sede registra consumos durante los días que representan festivos por Senana Santa.
 
@@ -68,7 +68,7 @@
 <!-- - La sede modificó su patrón de consumo histórico a partir del 30 de noviembre de 2023, especialmente en lo que respecta a los consumos nocturnos.-->
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
-## BC 138 - Mosquera
+<!--## BC 138 - Mosquera
 
 - Se siguen presentando problemas con la comunicación de esta sucursal, se está trabajando en esta situación.
 
@@ -98,7 +98,7 @@
 - La sede tuvo cambios en el setpoint en horarios laborales, duplicando su consumo.-->
 
 <!--- La sede normalizó su consumo promedio con el establecido en la línea base, a comaración con la anterior semana que se duplicó.-->
-## BC 322 - San Gil
+<!--## BC 322 - San Gil
 
 - Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
 
@@ -106,11 +106,13 @@
 
 - Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
 
-- La sede registra consumos durante los días que representan festivos por Senana Santa.
+- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
+- La sede presenta consumos elevados durante el fin de semana, validar la razón
+
+<!--- La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
 
 - La sede presenta consumos nocturnos elevados las noches del 2, 3 y 4 de abril.
 
@@ -127,14 +129,14 @@
 
 - La sede normalizó su patrón de consumo.-->
 
-## BC 385 - Villeta
+<!--## BC 385 - Villeta
 
 - La sede registra consumos durante los días que representan festivos por Senana Santa.
 <!-- - La sede registra consumos durante el 24 de marzo que fue festivo.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
-## BC 388 - CC Hayuelos
+<!--## BC 388 - CC Hayuelos
 
 - La sede registra consumos durante los días que representan festivos por Senana Santa.
 
@@ -146,9 +148,7 @@
 
 ## BC 461 - La Carolina Unicentro
 
-- La sede registra consumos durante los días que representan festivos por Senana Santa.
-
-<!--- La sede registra consumos nocturnos elevados durante el 31 de marzo
+- La sede registra consumos nocturnos elevados durante las noches del 21 al 23 de abril.
 
 
 <!--- La sede presenta un consumo nocturno elevado la noche del 17 de marzo.
@@ -167,7 +167,7 @@
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-<!--## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
 <!--- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.-->
 
@@ -177,7 +177,7 @@
 
 <!--- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
-<!--- La sede presenta un consumo nocturno elevado la noche del 8 de abril.
+- La sede presenta un consumo nocturno elevado la noche del 21 de abril.
 
 <!--## BC 516 - Santa Marta
 
@@ -211,7 +211,7 @@
 
 - La sede presentó consumos elevados la madrugada del 24 de octubre a causa del aire acondicionado.-->
 
-## BC 602 - UGI
+<!--## BC 602 - UGI
 
 - Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
 
@@ -239,9 +239,7 @@
 
 ## BC 689 - Metropolis 
 
-- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos.
-
-- La sede presenta presenta un consumo nocturno elevado la noche del 14 de abril.
+- La sede presenta presenta un consumo nocturno elevado la noche del 25 de abril.
 
 <!--- La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento. -->
 
@@ -257,7 +255,7 @@
 - La sede presenta un consumo elevado durante el domingo 9 de marzo.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
-## BC 772 - Caicedonia 
+<!--## BC 772 - Caicedonia 
 
 - La sede presenta un consumo atípico el día domingo 20 de abril, validar si se presentaron labores de mantenimiento en el lugar.
 
@@ -265,13 +263,13 @@
 
 <!--- La sede presenta un consumo atípico la noche del 10 de octubre.-->
 
-<!--## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- La sede, durante la semana operó con consumos elevados con respecto a la linea base.
+- La sede, dejo el sistema de aires encendido durante casi toda la semana, incluyendo los horarios nocturnos.
 <!--- La sede solo operó tres días durante esta semana. -->
 <!--- La sede presentó un patrón de consumo atípico durante la semana, validar si se realizaron labores de mantenimiento.-->
 
-## BC 777 - Parque Washington 
+<!--## BC 777 - Parque Washington 
 
 - La sede presenta consumos elevandos en los horarios nocturnos de la semana laboral, Esta situación ya se había presentado y ya se había solucionado hace tiempo, validar porque se vuelve a presentar.
 
@@ -283,23 +281,23 @@
 
 <!--## BC 781 - Prado Plaza
 
-- La sede presentó consumos nocturnos elevados en comparación a la línea base por causa del sistema de aires acondicionados desde el 12 al 15 de febrero.
+- La sede presentó consumos nocturnos elevados en comparación a la línea base por causa del sistema de aires acondicionados desde el 12 al 15 de febrero.-->
 
-## BC 802 - Puerto Lopez 
+## BC 795 - Cañaveral
 
-- La sede encendió el sistema de aires el día sábado 15 de febrero, históricamente esa sede no ha encendido durante este día, verficar los horarios y reportarlo.
+- Se incluye la sede al informe semanal.
 
-<!--## BC 832 - San Francisco de Paula
+<!--## BC 802 - Puerto Lopez 
 
-- La sede presesntó variaciones en el patrón de consumo, causadas por otras cargas diferentes al sistema de aires. -->
+- La sede encendió el sistema de aires el día sábado 15 de febrero, históricamente esa sede no ha encendido durante este día, verficar los horarios y reportarlo.-->
 
-<!--## BC 892 - La Vega
+## BC 832 - San Francisco de Paula
 
+- La sede presesntó encendió el sistema de aire durante el día sábado, anteriormente no se había registrado este comportamiento.
 
+## BC 892 - La Vega
 
-<!-- - La sede mejoró su patrón de consumo a comparación con la línea base, como la hora y el setpoint del apagado.-->
-
-<!--- La sede registra un consumo elevado la noche del 2 de abril.
+- La sede registra un consumos elevados las noches del 24 y 25 de abril.
 
 
 <!--## BC - Metropolitan
