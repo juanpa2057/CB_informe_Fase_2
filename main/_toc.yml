@@ -8,10 +8,12 @@ chapters:
   - file: Hallazgos
 
   - file: notebooks/individual/Notebook BC 43 - Puente Aranda
+  - file: notebooks/individual/Notebook BC 57 - Villavicencio Principal
   - file: notebooks/individual/Notebook BC 68 - Ibague
   - file: notebooks/individual/Notebook BC 73 - Pereira
   - file: notebooks/individual/Notebook BC 79 - La Quinta Ibague
   - file: notebooks/individual/Notebook BC 81 - Avenida Kennedy
+  - file: notebooks/individual/Notebook BC 83 - Miramar
   - file: notebooks/individual/Notebook BC 111 - Corozal
   - file: notebooks/individual/Notebook BC 115 - Circunvalar Pereira
   - file: notebooks/individual/Notebook BC 138 - Mosquera
@@ -49,5 +51,5 @@ chapters:
   - file: notebooks/individual/Notebook BC 802 - Puerto Lopez
   - file: notebooks/individual/Notebook BC 832 - San Francisco de Paula
   - file: notebooks/individual/Notebook BC 892 - La Vega
-  - file: notebooks/individual/Notebook BC - Metropolitan
   - file: notebooks/individual/Notebook BC - Jardin Plaza
+  - file: notebooks/individual/Notebook BC - Metropolitan
