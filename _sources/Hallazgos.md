@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 19 al 25 de mayo de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 26 de mayo al 1 de abril de 2025.
 
 <!--## BC 43 - Puente Aranda
 
@@ -24,7 +24,7 @@
 
 - La sede tiene un patrón de consumo atípico a comparación de otras sedes, nunca apaga el sistema de aires durante la semana y su consumo es bastante elevado.
 
-## BC 73 - Pereira
+<!--## BC 73 - Pereira
 
 - La sede presenta consumo durante el día sábado.
 
@@ -46,8 +46,8 @@
 
  ## BC 81 - Avenida Kennedy
 
-
-- La sede presenta apagado del sistema de aires durante el fin de semana, esperemos seguir con este comportamiento en la sucursal.
+- La sede presenta un problema con la comunicación, se está validando la razón.
+<!--- La sede presenta apagado del sistema de aires durante el fin de semana, esperemos seguir con este comportamiento en la sucursal.
 <!--- La sede presenta irregularidades en su patrón de consumo, durante horarios laborales su consumo fue más bajo sin embargo presentó consumos en horarios nocturnos, y tuvo apagado el día domingo.
 
 - La sede mantuvo encendido el aire acondicionado durante el fin de semana y el lunes festivo. 
@@ -61,7 +61,9 @@
 
 <!--- Se incluye la sede al informe-->
 
-- La sede tiene oportunidad de mejora en las horas de apagado, presenta picos de consumo, despues de las horas laborales.
+<!--- La sede tiene oportunidad de mejora en las horas de apagado, presenta picos de consumo, despues de las horas laborales.-->
+
+- La sede solucionó el problema que tenía en las horas de apagado.
 
 - Se recomienda validar la cantidad de equipos de aire de esta sucursal o si es carga de la frontera es compartida con el centro comercial, en el momento de la instalación se detectaron dos cargas, sin embargo la carga de aires vista en los informes es mucho menor a lo que se espera en una sucursal y a comparación con la frontera.
 
@@ -94,9 +96,9 @@
 
 - La sede presenta una oportunidad de mejora en la hora de apagado, generalmente la sede presenta un pico de consumo despues de la hora de cierre.
 
-<!--## BC 221 - Soacha
+## BC 221 - Soacha
 
-<!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
+- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante el 1 de mayo que fue festivo.
 
@@ -109,9 +111,12 @@
 <!--- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
 
-<!--## BC 265 Valle de Lili
+## BC 265 Valle de Lili
 
-- La sede presentó un cambio en los equipos de aire, cambiando su patrón de consumo.
+- La sede presenta consumos nocturnos las noches del 26, 27, 28 de mayo, validar si se realizaron labores de mantenimiento.
+
+
+<!--- La sede presentó un cambio en los equipos de aire, cambiando su patrón de consumo.
 
 - En principio se evidencia una operación mas estable, sin embargo el setpoint es mayor al promedio de la línea base.
 
@@ -147,20 +152,24 @@
 
 - Se reestableció comunicación con la sede.-->
 
-## BC 384 - Anapoima 
+<!--## BC 384 - Anapoima 
 
 - La sede presento un consumo elevado durante todo el fin de semana.
 
-<!--- La sede presnetó un consumo durante el día sábado 10, la sucursal nunca había encendido los sábados.
+<!--- La sede presnetó un consumo durante el día sábado 10, la sucursal nunca había encendido los sábados.-->
 
-<!--## BC 385 - Villeta
+## BC 385 - Villeta
+
+- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
 <!--- La sede registra consumos durante el 1 de mayo que fue festivo.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 23.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
-<!--## BC 388 - CC Hayuelos
+## BC 388 - CC Hayuelos
+
+- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
 
@@ -210,9 +219,11 @@
 
 <!--- La sede presenta problemas con el sistema de automatización, con las horas de apagados y consumos durante el fin de semana.-->
 
-- La sede presenta un apagado tardío del sistema la noche del 21 de mayo.
+- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.
 
-<!--## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
+
+- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.
 
 <!--La sede presenta un patrón de consumo atípico durante la semana, validar la razón.
 <!-- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.-->
@@ -249,11 +260,11 @@
 
 <!--## BC 673 - Calle 80
 
-- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.
+- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.-->
 
 ## BC 681 - Cerete
 
-- La sede presento consumos nocturnos durante la semana, validar si se realizaron labores de mantenimiento.
+- La sede presento consumos nocturnos elevados durante el fin de semana, validar si se realizaron labores de mantenimiento.
 <!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
@@ -267,7 +278,7 @@
 
 ## BC 689 - Metropolis 
 
-- La sede presenta un patrón de consumo atípico, el sistema de aires acondicionados queda encendido durante la noche del 22 de mayo.
+- La sede presenta un patrón de consumo atípico, el sistema de aires acondicionados queda encendido durante la noche del 28 de mayo.
 
 - La sede presenta este comportamiento de manera repetida, validar si están reñaizando labores de mantenimiento.
 
@@ -291,7 +302,7 @@
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
 ## BC 772 - Caicedonia 
 
-- La sede presenta un consumo atípico la noche del domingo 25 de mayo, validar si se realizaron labores en la sede.
+- La sede presenta un consumo atípico la noche del domingo 25 y 26 de mayo, validar si se realizaron labores en la sede.
 
 <!--- La sede presenta un consumo atípico el día domingo 20 de abril, validar si se presentaron labores de mantenimiento en el lugar.
 
@@ -307,9 +318,9 @@
 
 ## BC 777 - Parque Washington 
 
-<!--- La sede  normalizó su patrón de consumo durante esta semana.-->
+- La sede  normalizó su patrón de consumo durante esta semana.
 
-- La sede presenta consumos elevandos en los horarios nocturnos de la semana laboral, Esta situación ya se había presentado y ya se había solucionado hace tiempo, validar porque se vuelve a presentar.
+<!--- La sede presenta consumos elevandos en los horarios nocturnos de la semana laboral, Esta situación ya se había presentado y ya se había solucionado hace tiempo, validar porque se vuelve a presentar.
 
 - La sede registra consumos durante los días que representan festivos por Senana Santa.
 <!--- La sede registra un consumo elevado la noche del 31 de marzo.-->
@@ -333,10 +344,9 @@
 
 - La sede presesntó encendió el sistema de aire durante el día sábado, anteriormente no se había registrado este comportamiento.
 -->
-<!--## BC 892 - La Vega
+## BC 892 - La Vega
 
-- La sede registra un consumos elevados las noches del 14 de mayo y fin de semana.
-
+- La sede registra un patrón de consumo atípico durane los días laborales y fin de semana.
 
 <!--## BC - Metropolitan
 
