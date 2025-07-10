@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 23 de al 30 de junio de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 30 de junio al 6 de julio de 2025.
 
 <!--## BC 43 - Puente Aranda
 
@@ -73,7 +73,7 @@
 
 <!--- La sede mejoro el tema corresponfiente a las horas de apagado, que se notificó la última semana.-->
 
-## BC 111 - Corozal
+<!--## BC 111 - Corozal
 
 - Se reestablece comunicación con la sede.
 
@@ -172,9 +172,10 @@
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 30.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
-<!--## BC 388 - CC Hayuelos
+## BC 388 - CC Hayuelos
 
-- La sede registra consumos durante los días que representan festivos u horario no laboral
+- La sede presenta un encendido en horario nocturno la noche del 3 de julio.
+<!--- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
 
@@ -208,7 +209,7 @@
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-<!--## BC 513 - El Dificil 
+## BC 513 - El Dificil 
 
 <!--- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.-->
 
@@ -218,19 +219,18 @@
 
 <!--- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 
-<!-- La sede presenta un consumo nocturno elevado la noche del 14 de mayo.-->
-
+- La sede presenta un consumo nocturno elevado la noche del 2 de julio.
 <!--## BC 516 - Santa Marta
 
 - La sede presenta problemas con el sistema de automatización, con las horas de apagados y consumos durante el fin de semana.
 
-<!--- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.
+<!--- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.-->
 
 ## BC 517 - El Rodadero 
 
-- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.
+<!--- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.-->
 
-<!--La sede presenta un patrón de consumo atípico durante la semana, validar la razón.
+- La sede presenta un patrón de consumo atípico durante la semana, validar la razón.
 <!-- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.-->
 
 <!--- La sede presenta un consumo nocturno elevado la noche del 13 de mayo.
@@ -283,13 +283,13 @@
 <!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
-## BC 689 - Metropolis 
+<!--## BC 689 - Metropolis 
 
 - La sede presenta un patrón de consumo atípico, el sistema de aires acondicionados queda encendido durante la noche del 27 de junio.
 
 <!--- La sede deja el sistema de aires encendido durante el fin de semana.-->
 
-- La sede registra consumos durante el 30 de junio que fue festivo.
+<!-- - La sede registra consumos durante el 30 de junio que fue festivo.
 
 <!--- La sede encendió el sistema de aires la madrugada del 22 de noviembre, validar si se realizaron labores de mantenimiento. -->
 
