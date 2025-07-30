@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 14 al 20 de julio de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 21 al 27 de julio de 2025.
 
 <!--## BC 43 - Puente Aranda
 
@@ -24,9 +24,11 @@
 
 - La sede tiene un patrón de consumo atípico a comparación de otras sedes, nunca apaga el sistema de aires durante la semana y su consumo es bastante elevado.
 
-<!--## BC 73 - Pereira
+## BC 73 - Pereira
 
-- La sede presenta consumo durante el día sábado.
+- La sede presenta novedad con consumos en en horarios nocturnos y fin de semana, validar si se están realizando labores de mantenimiento.  
+
+<!--- La sede presenta consumo durante el día sábado.
 
 <!--- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 - La sede presenta un apagado tardío en el sistema de aires el día viernes 13 de diciembre.-->
@@ -73,9 +75,9 @@
 
 <!--- La sede mejoro el tema corresponfiente a las horas de apagado, que se notificó la última semana.-->
 
-<!--## BC 111 - Corozal
+## BC 111 - Corozal
 
-- Se reestablece comunicación con la sede.
+- Se presentan problemas con la comunicación.
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
@@ -131,17 +133,17 @@
 - La sede tuvo cambios en el setpoint en horarios laborales, duplicando su consumo.-->
 
 <!--- La sede normalizó su consumo promedio con el establecido en la línea base, a comaración con la anterior semana que se duplicó.-->
-<!--## BC 322 - San Gil
+## BC 322 - San Gil
 
-- Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
+- La sede presenta oportunidad de mejora en los horarios nocturnos.
 
-## BC 325 - Santuario
+<!--## BC 325 - Santuario
 
 - Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
 
 - La sede registra consumos durante los días que representan festivos por Senana Santa.-->
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
 - La sucursal presenta un consumo elevado la noche del 17 de julio validar si se realizaron maniobras de mantenimiento.
 
@@ -165,12 +167,12 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 <!--- La sede presnetó un consumo durante el día sábado 10, la sucursal nunca había encendido los sábados.-->
 <!--- La sucursal presenta un consumo nocturno atípico el 10 de junio.-->
 
-## BC 385 - Villeta
+<!--## BC 385 - Villeta
 
 <!--- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
-- La sede registra consumos durante el fin se semana del 19 y 20 de julio.
+<!--- La sede registra consumos durante el fin se semana del 19 y 20 de julio.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 30.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 <!---
@@ -187,9 +189,9 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-<!--## BC 461 - La Carolina Unicentro
+## BC 461 - La Carolina Unicentro
 
-
+- La sede presenta novedad con consumos nocturnos y de fin de semana, validar problemas con la automatización.
 <!--- La sede no apagó el sistema de aire acondicionado durante el fin de semana.-->
 <!--
 - La sede registra consumos nocturnos elevados durante las noches del 17 y 19 de junio.
@@ -199,11 +201,11 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 <!--- La sede presenta consumos elevados durante los horarios laborales.-->
 
-<!--## BC 478 - Mix Vía 40
+## BC 478 - Mix Vía 40
 
 <!--- La sede mejoró en su consumo en horarios nocturnos y no hábiles.-->
 
-<!--- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.
+- La sede presenta un consumos nocturnos elevados durante la semana, el sistema de aires no fue apagado durante las noches de días laborales, validar la razón.
 
 <!--La sede presentó consumos nocturnos elevados durante la semana, comparados con la línea base.-->
 
@@ -227,19 +229,19 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 - La sede presenta problemas con el sistema de automatización, con las horas de apagados y consumos durante el fin de semana.
 
 <!--- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.-->
-<!---
+
 ## BC 517 - El Rodadero 
 
- - La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.
+ - La sede presenta un consumo nocturno elevado, la noche del 23 de julio.
 
-- La sede presenta un patrón de consumo atípico durante la semana, validar la razón.-->
+<!--- La sede presenta un patrón de consumo atípico durante la semana, validar la razón.-->
 <!-- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.-->
 
 <!--- La sede presenta un consumo nocturno elevado la noche del 13 de mayo.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 33.54 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.-->
 
-## BC 554 - Mall Plaza Buena Vista
+<!--## BC 554 - Mall Plaza Buena Vista
 
 <!--- La sede normalizo su patrón de consumo, recordemos que la sede venía con el problema de que la automatización no apagaba el sistema de aires durante los fines de semana.
 
@@ -255,7 +257,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 - Durante la semana, el patrón de consumo fue diferente al habitual, sin embargo sigue sin ser el ideal.-->
 
-- Durante esta semana, la sucursal normalizó su patrón de consumo, se seguirá monitoreando con el fin de ver si conservamos este comportamiento.
+<!--- Durante esta semana, la sucursal normalizó su patrón de consumo, se seguirá monitoreando con el fin de ver si conservamos este comportamiento.
 
 ## BC 583 - Riosucio
 
@@ -272,10 +274,10 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 <!--## BC 673 - Calle 80
 
 - La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.-->
-<!--
+
 ## BC 681 - Cerete
 
-- La sede presento consumos nocturnos elevados durante el fin de semana, validar si se realizaron labores de mantenimiento.
+- La sede presenta consumos nocturnos elevados con respecto al hitórico.
 <!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
@@ -362,7 +364,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 -->
 ## BC 892 - La Vega
 
-- La sucursal presenta consumos nocturno las noches del 15 y 17 de julio, validar las razones.
+- La sucursal presenta un consumo nocturno la noche del 21 de julio, validar las razones.
 
 <!--- La sede registra un patrón de consumo atípico durane los días laborales y fin de semana.-->
 
