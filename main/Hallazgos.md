@@ -5,7 +5,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 4 al 10 de agosto de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 11 al 18 de agosto de 2025.
 
 <!--## BC 43 - Puente Aranda
 
@@ -19,12 +19,14 @@
 
 - Durante la semana pasada se consumió un total de 996 kWh fuera del horario establecido. se debe validar el apagado de los equipos en horario nocturno.
 
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+
 ## BC 68 - Ibague
 
 <!-- La sede tiene un patrón de consumo atípico a comparación de otras sedes, nunca apaga el sistema de aires durante la semana y su consumo es bastante elevado.-->
 - La sucursal mejoró su patrón de consumo.
 
-- La sede presenta un consumo a carga parcial el día 7 de agosto que representa festivo. 
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 <!--## BC 73 - Pereira
 
@@ -50,7 +52,7 @@
 
  ## BC 81 - Avenida Kennedy
 
-- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 <!--- La sede apagó el sistema de aires en horas tardías, validar si fueron problemas de automatización o mantenimientos en la sede.
 
@@ -87,9 +89,10 @@
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
-<!--- 
 
 ## BC 115 - Circunvalar Pereira
+
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.
 
@@ -106,13 +109,14 @@
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
 
-<!--## BC 138 - Mosquera
+## BC 138 - Mosquera
 
 - La sede presenta una oportunidad de mejora en la hora de apagado, generalmente la sede presenta un pico de consumo despues de la hora de cierre.
-<!---
+
 ## BC 221 - Soacha
 
- La sede registra consumos durante los días que representan festivos u horario no laboral
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+<!-- La sede registra consumos durante los días que representan festivos u horario no laboral
 
  La sede registra consumos durante el 1 de mayo que fue festivo
 
@@ -148,9 +152,11 @@
 
 - La sede registra consumos durante los días que representan festivos por Senana Santa.-->
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sucursal presenta un consumo elevado la noche del 17 de julio validar si se realizaron maniobras de mantenimiento.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+
+- La sucursal presenta un consumo elevado durante el fin de semana validar si se realizaron maniobras de mantenimiento.
 
 <!--- La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
 
@@ -174,7 +180,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 ## BC 385 - Villeta
 
-- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 <!--- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
@@ -195,7 +201,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 - Se presentan problemas con la medida de los aires, se está realizando la revisón.-->
 
-<!--## BC 461 - La Carolina Unicentro
+## BC 461 - La Carolina Unicentro
 
 - La sede presenta novedad con consumos nocturnos, validar problemas con la automatización.
 <!--- La sede no apagó el sistema de aire acondicionado durante el fin de semana.-->
@@ -249,7 +255,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 ## BC 554 - Mall Plaza Buena Vista
 
-- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 <!--- La sede normalizo su patrón de consumo, recordemos que la sede venía con el problema de que la automatización no apagaba el sistema de aires durante los fines de semana.
 
@@ -275,20 +281,22 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 - Se incluye una de las sedes de la última serie de instalaciones de la fase dos.
 
-- La sede tiene un consumo bajo en el sistema de refrigeración o de aires comparado con otras sedes.
+- La sede tiene un consumo bajo en el sistema de refrigeración o de aires comparado con otras sedes.-->
 
-<!-- ## BC 619 - Plaza del Bosque Ibague-->
+## BC 619 - Plaza del Bosque Ibague
+
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 ## BC 673 - Calle 80
 
 - La sede presenta oportunidad de mejora en las horas de apagado.
 
-- La sede presenta un patrón de consumo atípico.
+
 <!--- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.-->
 
-<!--## BC 681 - Cerete
+## BC 681 - Cerete
 
-- La sede presenta consumos nocturnos elevados con respecto al hitórico.
+- La sede presenta novedad con las horas de apagado, validar si se están realizando labores de mantenimiento.
 <!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
@@ -303,7 +311,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 ## BC 689 - Metropolis 
 
-- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 <!--- La sede presenta un patrón de consumo atípico, el sistema de aires acondicionados queda encendido durante la noche del 27 de junio.
 
@@ -345,7 +353,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 - Se sugiere validar las horas de encendido y apagado de la sucursal.
 
-- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 <!--- La sede presenta un consumos atípicos el fin de semana del 2 y 3 de agosto, validar si se realizaron labores en la sede.
 <!--- La sede presenta encedido el día 30 de junio que fue festivo.
 
@@ -380,15 +388,15 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 -->
 ## BC 892 - La Vega
 
-- La sucursal presenta un consumo nocturno la noche del 4 de agosto.
+- La sucursal presenta un consumo nocturno la noche del 12 de agosto.
 
-- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
+<!--- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
 
 <!--- La sede registra un patrón de consumo atípico durane los días laborales y fin de semana.-->
 
 ## BC - Metropolitan
 
-- El edificio presenta un patrón de consumo irregular durante la semana, a causa de la terraza.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 
 <!--## BC - Jardin Plaza
