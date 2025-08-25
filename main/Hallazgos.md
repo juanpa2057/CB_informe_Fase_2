@@ -5,7 +5,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 11 al 18 de agosto de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 18 al 24 de agosto de 2025.
 
 <!--## BC 43 - Puente Aranda
 
@@ -184,7 +184,7 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 <!--- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
-<!--- La sede registra consumos durante el fin se semana del 19 y 20 de julio.
+- La sede registra consumos durante el fin se semana.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 30.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 <!---
@@ -204,7 +204,8 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 ## BC 461 - La Carolina Unicentro
 
 - La sede presenta novedad con consumos nocturnos, validar problemas con la automatización.
-<!--- La sede no apagó el sistema de aire acondicionado durante el fin de semana.-->
+
+- La sede no apagó el sistema de aire acondicionado durante el fin de semana.
 <!--
 - La sede registra consumos nocturnos elevados durante las noches del 17 y 19 de junio.
 
@@ -294,19 +295,19 @@ La sede novedad consumos nocturnos del 8 al 10 de julio, validar si no se presen
 
 <!--- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.-->
 
-## BC 681 - Cerete
+<!--## BC 681 - Cerete
 
 - La sede presenta novedad con las horas de apagado, validar si se están realizando labores de mantenimiento.
 <!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
 
-<!--## BC 687 - Planeta Rica
+## BC 687 - Planeta Rica
 
-- La sede presentó encendidos en el sistema de aires en horarios nocturnos validar si se realizaron mantenimientos en la sucursual.
+<!--- La sede presentó encendidos en el sistema de aires en horarios nocturnos validar si se realizaron mantenimientos en la sucursual.
 <!--- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 -->
-<!-- - La sede presentó un consumo elevedo durante el fin de semana, el aire acondicionado se enciende de manera parcial, validar si se debe a alguna actividad operativa. -->
+- La sede presentó un consumo elevedo durante el fin de semana, validar si se debe a alguna actividad operativa.
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
 ## BC 689 - Metropolis 
