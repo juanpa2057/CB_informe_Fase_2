@@ -19,7 +19,7 @@
 
 - Durante la semana pasada se consumió un total de 996 kWh fuera del horario establecido. se debe validar el apagado de los equipos en horario nocturno.
 
-- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+<!--- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 <!--## BC 68 - Ibague
 
@@ -50,7 +50,7 @@
 
 
 
-<!--> ## BC 81 - Avenida Kennedy
+<!-- ## BC 81 - Avenida Kennedy
 
 - La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
@@ -255,7 +255,7 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 33.54 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.-->
 
-## BC 554 - Mall Plaza Buena Vista
+<!--## BC 554 - Mall Plaza Buena Vista
 
 - La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
@@ -400,7 +400,7 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 <!--- La sede registra un patrón de consumo atípico durane los días laborales y fin de semana.-->
 
-## BC - Metropolitan
+<!--## BC - Metropolitan
 
 - La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
