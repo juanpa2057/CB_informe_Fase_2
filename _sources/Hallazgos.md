@@ -5,7 +5,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 25 al 31 de agosto de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 1 al 7 de septiembre de 2025.
 
 <!--## BC 43 - Puente Aranda
 
@@ -83,9 +83,9 @@
 
 <!--- La sede mejoro el tema corresponfiente a las horas de apagado, que se notificó la última semana.-->
 
-<!--## BC 111 - Corozal
+## BC 111 - Corozal
 
-- Se presentan problemas con la comunicación.
+- Se presenta la sede al informe nevamente.
 
 <!-- - La sede presentó un consumo nocturno elevado la noche del 11 de Marzo. -->
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
@@ -111,25 +111,25 @@
 
 <!--## BC 138 - Mosquera
 
-- La sede presenta una oportunidad de mejora en la hora de apagado, generalmente la sede presenta un pico de consumo despues de la hora de cierre.
+- La sede presenta una oportunidad de mejora en la hora de apagado, generalmente la sede presenta un pico de consumo despues de la hora de cierre.-->
 
 ## BC 221 - Soacha
 
-- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+<!--- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 <!-- La sede registra consumos durante los días que representan festivos u horario no laboral
 
  La sede registra consumos durante el 1 de mayo que fue festivo
 
 - La sede encendió el sistema de aires a carga parcial el día lunes 30 de junio que representa un día festivo.-->
 
-<!--- La sede presenta irregularidades en su patrón de consumo, se resgistró consumos elevados a comparación con la línea base y horas de apagado tardías.
+- La sede presenta irregularidades en su patrón de consumo, se resgistró consumos elevados a comparación con la línea base y horas de apagado tardías.
 
 <!-- - La sede presenta intermitencias en los setpoint del aire acondicionado, lo normal es que la sede tenga un pico de potencia de 2.5 kW, y se tienen registros de 10 kW como el día 21 de octubre.  -->
 
 <!--- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
 
-## BC 265 Valle de Lili
+<!--## BC 265 Valle de Lili
 <!--- La sede presenta consumos nocturnos las noches del 26, 27, 28 de mayo, validar si se realizaron labores de mantenimiento.-->                  
 
 
@@ -139,7 +139,7 @@
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 37.27 kWh/dia, lo que representa un 37 % de aumento respecto a la línea base.-->
 
-- La sede tuvo cambios en el setpoint en horarios laborales, duplicando su consumo.
+<!--- La sede tuvo cambios en el setpoint en horarios laborales, duplicando su consumo.
 
 <!--- La sede normalizó su consumo promedio con el establecido en la línea base, a comaración con la anterior semana que se duplicó.-->
 <!--## BC 322 - San Gil
@@ -152,15 +152,15 @@
 
 - La sede registra consumos durante los días que representan festivos por Senana Santa.-->
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+<!--- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 
 - La sucursal presenta un consumo elevado durante el fin de semana validar si se realizaron maniobras de mantenimiento.
 
-<!--- La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.
+<!--- La sede presenta aumento en los setpoint durante horarios laborales y horarios nocturnos.-->
 
-- La sede presenta consumos nocturnos elevados las noches del 2, 3 y 4 de abril.
+- La sede presenta un consumo nocturno elevado la noche del 3 de septiembre.
 
 
 <!-- ## BC 334 - El Peñol
@@ -171,7 +171,7 @@
 
 - Se reestableció comunicación con la sede.-->
 
-## BC 384 - Anapoima 
+<!--## BC 384 - Anapoima 
 
 La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no se presentaron trabajos operativos.
 
@@ -187,10 +187,11 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 <!--- La sede registra consumos durante el fin se semana.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 30.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
-<!---
+
 ## BC 388 - CC Hayuelos
 
-- La sede presenta un encendido en horario nocturno la noche del 3 de julio.
+- La sede tiene oprtunidad de mejora en las horas de apagado.
+<!-- La sede presenta un encendido en horario nocturno la noche del 3 de julio.-->
 <!--- La sede registra consumos durante los días que representan festivos u horario no laboral
 
 <!--- La sede registra consumos durante los días que representan festivos por Senana Santa.-->
@@ -204,6 +205,8 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 ## BC 461 - La Carolina Unicentro
 
 - La sede presenta novedad con consumos nocturnos, validar problemas con la automatización.
+
+- La sucursal tiene tres semanas con esta novedad.
 
 <!-- La sede no apagó el sistema de aire acondicionado durante el fin de semana.
 <!--
@@ -226,21 +229,21 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 - La sede encendió el sistema de aires durante el fin de semana, históricamente nunca se ha detectado este comportamiento. -->
 
-## BC 513 - El Dificil 
+<!--## BC 513 - El Dificil 
 
 <!--- La sede presenta consumos elvados causados por el sistema de aire durante los horarios laborales.-->
 
-- La sede presentó consumos elevados los días que representan fin de semana.
+<!--- La sede presentó consumos elevados los días que representan fin de semana.
 
 <!-- - Para la sede se debe validar la instalación de las medidas de los equipos de aire.-->
 
 <!--- La sede presenta un patrón de consumo irregular, manteniendo el aire encendido en horas nocturnas.-->
 <!---
 - La sede presenta un consumo nocturno elevado la noche del 2 de julio.-->
-## BC 516 - Santa Marta
+<!--## BC 516 - Santa Marta
 
 <!--- La sede presenta problemas con el sistema de automatización, con las horas de apagados y consumos durante el fin de semana.-->
-- La sede presentó consumos elevados los días que representan fin de semana.
+<!--- La sede presentó consumos elevados los días que representan fin de semana.
 
 <!--- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.-->
 
@@ -287,28 +290,30 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 <!--## BC 619 - Plaza del Bosque Ibague
 
-- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+- La sede presenta consumo el día 18 de agosto que representa un día festivo.-->
 
 ## BC 673 - Calle 80
 
-- La sede presenta oportunidad de mejora en las horas de apagado.
+- La sede presenta problemas de comunicación.
 
 
 <!--- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.-->
 
-<!--## BC 681 - Cerete
+## BC 681 - Cerete
 
-- La sede presenta novedad con las horas de apagado, validar si se están realizando labores de mantenimiento.
+- La sede presentó novedad con la medida de aires, en este momento se normalizó la situación.
+
+<!--- La sede presenta novedad con las horas de apagado, validar si se están realizando labores de mantenimiento.-->
 <!-- - Se está validando la instalación de los equipos de medida del aire acondicionado.
 
 - La sede normalizó su patrón de consumo.-->
 
-## BC 687 - Planeta Rica
+<!--## BC 687 - Planeta Rica
 
 <!--- La sede presentó encendidos en el sistema de aires en horarios nocturnos validar si se realizaron mantenimientos en la sucursual.
 <!--- La sede presenta cambios en el setpoint del sistema de aire durante los horarios laborales.
 -->
-- La sede presentó un consumo elevedo durante el fin de semana, validar si se debe a alguna actividad operativa.
+<!--- La sede presentó un consumo elevedo durante el fin de semana, validar si se debe a alguna actividad operativa.
 <!-- - La sede presentó una desconexión de la medida el día 18 de junio, y se reestableció la comunicación el día 21 de junio. -->
 
 <!--## BC 689 - Metropolis 
@@ -335,9 +340,10 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 - La sede presenta patrones de consumos atípicos, se sugiere validar el apagado del AA.
 
 <!-- - La sede presenta altos consumos nocturnos durante toda la semana. -->
-<!--## BC 772 - Caicedonia 
+## BC 772 - Caicedonia 
 
-- La sede presenta un consumos atípicos el fin de semana del 2 y 3 de agosto, validar si se realizaron labores en la sede.
+- La sede dejó encendido el sistema de aires a carga parcial en las horas nocturnas.
+<!--- La sede presenta un consumos atípicos el fin de semana del 2 y 3 de agosto, validar si se realizaron labores en la sede.-->
 
 <!--- La sede presenta un consumo atípico el día domingo 20 de abril, validar si se presentaron labores de mantenimiento en el lugar.
 
@@ -347,7 +353,7 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 ## BC 775 - Bulevar 54
 
-- Se sugiere validar las horas de encendido y apagado de la sucursal.
+- La sede normaliza la hora de apagado.
 
 <!--- La sede, dejo el sistema de aires encendido durante casi toda la semana, incluyendo los horarios nocturnos.-->
 <!--- La sede solo operó tres días durante esta semana. -->
@@ -357,7 +363,7 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 - Se sugiere validar las horas de encendido y apagado de la sucursal.
 
-- La sede registra consumos durante el fin de semana, validar la razón. 
+<!--- La sede registra consumos durante el fin de semana, validar la razón. 
 
 <!--- La sede presenta consumo el día 18 de agosto que representa un día festivo.
 <!--- La sede presenta un consumos atípicos el fin de semana del 2 y 3 de agosto, validar si se realizaron labores en la sede.
@@ -394,7 +400,7 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 -->
 ## BC 892 - La Vega
 
-- La sucursal presenta un consumo nocturno la noche del 26 de agosto.
+- La sucursal presenta un consumo nocturno la noche del 1 de septiembre.
 
 <!--- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
 
