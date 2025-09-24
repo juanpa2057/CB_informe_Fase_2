@@ -5,7 +5,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 8 al 14 de septiembre de 2025.
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia Fase 2 durante la semanal del 15 al 21 de septiembre de 2025.
 
 <!--## BC 43 - Puente Aranda
 
@@ -107,10 +107,10 @@
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
 
-## BC 138 - Mosquera
+<!--## BC 138 - Mosquera
 
 <!--- La sede presenta una oportunidad de mejora en la hora de apagado, generalmente la sede presenta un pico de consumo despues de la hora de cierre.-->
-- La sede presenta un consumo elevado los días domingos.
+<!--- La sede presenta un consumo elevado los días domingos.
 
 <!--## BC 221 - Soacha
 
@@ -128,7 +128,7 @@
 <!--- La sede ha aumentado el consumo en horarios nocturnos, probablemente se deba a un cambio en el setpoint, anteriormente este se apagaba por completo. -->
 
 
-## BC 265 - Valle de Lili
+<!--## BC 265 - Valle de Lili
 
 - La sucursal presenta variaciones en los setpoint.
 <!--- La sede presenta consumos nocturnos las noches del 26, 27, 28 de mayo, validar si se realizaron labores de mantenimiento.-->                  
@@ -155,9 +155,9 @@
 
 ## BC 332 - Zipaquira
 
-- Se evidencia una diferencia del consumo promedio diario de 9.96 kWh/dia, lo que representa un 10 % de disminución respecto a la línea base.
+<!-- Se evidencia una diferencia del consumo promedio diario de 9.96 kWh/dia, lo que representa un 10 % de disminución respecto a la línea base.
 
-<!--- La sede presenta consumo el día 18 de agosto que representa un día festivo.
+<!--- La sede presenta consumo el día 18 de agosto que representa un día festivo.-->
 
 - La sucursal presenta un consumo elevado durante el fin de semana validar si se realizaron maniobras de mantenimiento.
 
@@ -191,7 +191,7 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 30.77 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. -->
 
-## BC 388 - CC Hayuelos
+<!--## BC 388 - CC Hayuelos
 
 - La sede tiene oprtunidad de mejora en las horas de apagado.
 <!-- La sede presenta un encendido en horario nocturno la noche del 3 de julio.-->
@@ -252,9 +252,11 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 <!--- La sede presenta un consumo nocturno elevado, la noche del 26 de mayo.-->
 
-<!--## BC 517 - El Rodadero 
+## BC 517 - El Rodadero 
 
- - La sede presenta un consumo nocturno elevado, la noche del 23 de julio.
+- La sede presenta un consumos durante el fin de semana, validar la razón.
+
+<!-- - La sede presenta un consumo nocturno elevado, la noche del 23 de julio.>
 
 <!--- La sede presenta un patrón de consumo atípico durante la semana, validar la razón.-->
 <!-- La sede presento un consumo atípico durante el fin de semana, validar que le ocurrió al sistema de aires.-->
@@ -299,7 +301,7 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 ## BC 673 - Calle 80
 
-- Se reestableció comunicación.
+- La sede mejoró en las horas de apagado.
 
 
 <!--- La sede presentó un patrón de consumo irregular durante la semana, con encendidos en horarios nocturnos y encendidos durante el fin de semana.-->
@@ -403,9 +405,9 @@ La sede novedad consumos nocturnos la madrugada del 28 de agosto, validar si no 
 
 - La sede presesntó encendió el sistema de aire durante el día sábado, anteriormente no se había registrado este comportamiento.
 -->
-<!--## BC 892 - La Vega
+## BC 892 - La Vega
 
-- La sucursal presenta un consumo nocturno la noche del 1 de septiembre.
+- La sucursal presenta un consumo nocturno la noche del 15 de septiembre.
 
 <!--- La sede presenta encendido del sistema de aires el día 7 de agosto que representa festivo.
 
